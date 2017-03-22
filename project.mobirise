@@ -223,7 +223,7 @@
             "bgImageRadio": false,
             "parallax": false,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/extFeatures1/images/jumbotron.jpg",
-            "bgColor": "#2969b0",
+            "bgColor": "#3d8eb9",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -313,12 +313,12 @@
           "_name": "extFeatures4",
           "_anchor": "extFeatures4-b",
           "_params": {
-            "paddingTop": 2,
+            "paddingTop": "1",
             "paddingBottom": 1,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures4_bg.jpg",
-            "bgColor": "#2969b0",
+            "bgColor": "#3d8eb9",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -487,7 +487,7 @@
           "_params": {
             "paddingTop": "3",
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#3d8eb9",
             "showMeta": false
           },
           "title": "Other Services For You",
@@ -501,13 +501,13 @@
           "_name": "extFeatures6",
           "_anchor": "extFeatures6-x",
           "_params": {
-            "iconsColorBG": "@primaryColor",
-            "paddingTop": 3,
+            "iconsColorBG": "#3d8eb9",
+            "paddingTop": "0",
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/extFeatures3/images/img_extFeatures6_bg.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#3d8eb9",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -518,9 +518,9 @@
             "overlayColor": "#222",
             "columns": 3,
             "showTitles": true,
-            "showSubtitles": true,
+            "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true,
+            "showButtons": false,
             "showImages": true
           },
           "title1": "Security Audit",
@@ -587,7 +587,7 @@
           },
           "_styles": {
             ".card-img": {
-              "background-color": "@primaryColor !important"
+              "background-color": "#3d8eb9 !important"
             }
           }
         },
