@@ -674,15 +674,15 @@ h6,
   color: #ffffff;
 }
 #ext_menu-3 .navbar-toggler {
-  color: #ffffff;
+  color: #7c706b;
 }
 #ext_menu-3 .close-icon::before,
 #ext_menu-3 .close-icon::after {
-  background-color: #ffffff;
+  background-color: #7c706b;
 }
 #ext_menu-3 .link,
 #ext_menu-3 .dropdown-item {
-  color: #ffffff;
+  color: #7c706b;
   font-family: 'Ubuntu', sans-serif;
 }
 #ext_menu-3 .link {
@@ -700,22 +700,22 @@ h6,
 }
 #ext_menu-3 .link[aria-expanded="true"],
 #ext_menu-3 .dropdown-menu {
-  background: #0e0e0e;
+  background: #9fddff;
 }
 #ext_menu-3 .nav-dropdown-sm .link:focus,
 #ext_menu-3 .nav-dropdown-sm .link:hover,
 #ext_menu-3 .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-3 .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
+  background: #c3eaff!important;
 }
 #ext_menu-3 .navbar,
 #ext_menu-3 .nav-dropdown-sm,
 #ext_menu-3 .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-3 .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
+  background: #d2efff;
 }
 #ext_menu-3 .bg-color.transparent .link {
-  color: #ffffff;
+  color: #7c706b;
   transition: none;
 }
 #ext_menu-3 .bg-color.transparent.opened .link {
@@ -770,6 +770,12 @@ h6,
 }
 #extFeatures6-x .card-img {
   background-color: #d2efff !important;
+}
+#contacts2-7 P {
+  color: #000000;
+}
+#contacts2-7 UL {
+  color: #2969b0;
 }
 
 #ext_menu-k .hide-buttons .nav-btn {
