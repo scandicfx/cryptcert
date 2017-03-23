@@ -996,15 +996,15 @@ h6,
   color: #ffffff;
 }
 #ext_menu-1d .navbar-toggler {
-  color: #28324e;
+  color: #3d8eb9;
 }
 #ext_menu-1d .close-icon::before,
 #ext_menu-1d .close-icon::after {
-  background-color: #28324e;
+  background-color: #3d8eb9;
 }
 #ext_menu-1d .link,
 #ext_menu-1d .dropdown-item {
-  color: #28324e;
+  color: #3d8eb9;
   font-family: 'Ubuntu', sans-serif;
 }
 #ext_menu-1d .link {
@@ -1037,7 +1037,7 @@ h6,
   background: #dbecff;
 }
 #ext_menu-1d .bg-color.transparent .link {
-  color: #28324e;
+  color: #3d8eb9;
   transition: none;
 }
 #ext_menu-1d .bg-color.transparent.opened .link {
@@ -1144,6 +1144,9 @@ h6,
 }
 #extFeatures4-1h .wraper {
   border-color: undefined !important;
+}
+#extFeatures4-1h P {
+  text-align: left;
 }
 #extFeatures4-1i .mbr-iconfont-features4 {
   color: undefined !important;
