@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-03-21_2327",
-    "currentPage": "index.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 43,
+    "uniqCompNum": 49,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -50,13 +50,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#7c706b"
+              "color": "#28324e"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#7c706b"
+              "background-color": "#28324e"
             },
             ".link, .dropdown-item": {
-              "color": "#7c706b",
+              "color": "#28324e",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "font-family": "'Ubuntu', sans-serif"
             },
@@ -70,16 +70,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#9fddff"
+              "background": "#a8d1ff"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#c3eaff!important"
+              "background": "#cce4ff!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#d2efff"
+              "background": "#dbecff"
             },
             ".bg-color.transparent .link": {
-              "color": "#7c706b",
+              "color": "#28324e",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -98,14 +98,14 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-3",
           "_params": {
-            "bgColor": "#d2efff",
+            "bgColor": "#dbecff",
             "fontSize": "0.95",
             "fontName": {
               "name": "Ubuntu",
               "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "css": "'Ubuntu', sans-serif"
             },
-            "fontColor": "#7c706b",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -223,7 +223,7 @@
             "bgImageRadio": false,
             "parallax": false,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/extFeatures1/images/jumbotron.jpg",
-            "bgColor": "#d2efff",
+            "bgColor": "#dbecff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -268,7 +268,7 @@
           "media": {
             "image": {
               "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
+              "src": "@PROJECT_PATH@/assets/images/picture2-2000x1129.png",
               "active": true,
               "link": "",
               "alt": "",
@@ -329,7 +329,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures4_bg.jpg",
-            "bgColor": "#d2efff",
+            "bgColor": "#dbecff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -487,7 +487,7 @@
           "_params": {
             "paddingTop": "5",
             "paddingBottom": 1,
-            "bgColor": "#d2efff",
+            "bgColor": "#ffffff",
             "showMeta": false
           },
           "title": "Other Services For You",
@@ -501,18 +501,18 @@
           "_name": "extFeatures6",
           "_styles": {
             ".card-img": {
-              "background-color": "#d2efff !important"
+              "background-color": "#ffffff !important"
             }
           },
           "_anchor": "extFeatures6-x",
           "_params": {
-            "iconsColorBG": "#d2efff",
+            "iconsColorBG": "#ffffff",
             "paddingTop": "0",
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/extFeatures3/images/img_extFeatures6_bg.jpg",
-            "bgColor": "#d2efff",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -553,8 +553,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
               "linkInNewWindow": false,
-              "name": "expand",
-              "family": "et-line",
+              "name": "action-done-all",
+              "family": "Material-Design-Icons",
               "active": true,
               "link": "",
               "size": 0,
@@ -607,7 +607,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#d2efff",
+            "bgColor": "#dbecff",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -624,9 +624,6 @@
           "_styles": {
             "P": {
               "color": "#000000"
-            },
-            "UL": {
-              "color": "#2969b0"
             }
           }
         }
@@ -654,13 +651,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#28324e"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#28324e"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#28324e",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "font-family": "'Ubuntu', sans-serif"
             },
@@ -674,16 +671,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#a8d1ff"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#cce4ff!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#dbecff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#28324e",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -702,16 +699,16 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-k",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#dbecff",
             "fontSize": "0.95",
             "fontName": {
               "name": "Ubuntu",
               "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "css": "'Ubuntu', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": false,
@@ -789,6 +786,45 @@
           "_tags": [
             "Extension"
           ],
+          "_name": "extTabs1",
+          "_anchor": "extTabs1-18",
+          "_params": {
+            "tabs": "3",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extTabs1.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#151515",
+            "showTitles": true
+          },
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-18\" aria-expanded=\"false\">History</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-18\" aria-expanded=\"true\">Mission</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-18\" aria-expanded=\"false\">Vision</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-18\">Awesome</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-18\">Amazing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-18\">Beautiful</a></li>",
+          "title1": "BOOST YOUR RANKING",
+          "text1": "Sites made with Mobirise are 100% mobile-friendly according the latest Google Test and Google loves those websites (officially)!",
+          "title2": "OUR MISSION",
+          "text2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
+          "title3": "OUR VISION",
+          "text3": "To&nbsp;&nbsp;&nbsp;protect&nbsp;&nbsp;&nbsp;people's&nbsp;&nbsp;&nbsp;privacy&nbsp;&nbsp;&nbsp;and&nbsp;&nbsp;&nbsp;secrecy&nbsp;&nbsp;&nbsp;by&nbsp;&nbsp;&nbsp;providing&nbsp;&nbsp;&nbsp;secure&nbsp;&nbsp;&nbsp;solutions&nbsp; without&nbsp;&nbsp;&nbsp;compromising&nbsp;&nbsp;&nbsp;simplicity.&nbsp;",
+          "title4": "Tab heading 4",
+          "text4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "title5": "Tab heading 5",
+          "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "title6": "Tab heading 6",
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio."
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
           "_name": "extFeatures9",
           "_anchor": "extFeatures9-s",
           "_params": {
@@ -812,7 +848,7 @@
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
-            "ShowTexts": false,
+            "ShowTexts": true,
             "showIcons": true
           },
           "title": "OUR TEAM",
@@ -826,8 +862,8 @@
             }
           },
           "title1": "Nazri Abdullah",
-          "subtitle1": "Programmer",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "subtitle1": "CEO",
+          "caption1": "Passionate&nbsp;&nbsp;&nbsp;and&nbsp;&nbsp;&nbsp;motivated&nbsp;&nbsp;&nbsp;researcher&nbsp;&nbsp;&nbsp;in&nbsp;&nbsp;&nbsp;computer&nbsp;&nbsp;&nbsp;security,&nbsp;&nbsp;&nbsp;encryption&nbsp; protocol&nbsp;&nbsp;&nbsp;and&nbsp;&nbsp;&nbsp;blockchain.&nbsp;",
           "media1_1": {
             "iconFont": {
               "active": true,
@@ -882,7 +918,7 @@
           },
           "title2": "Yohan",
           "subtitle2": "SEO",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "A&nbsp;&nbsp;&nbsp;multi­skilled&nbsp;&nbsp;&nbsp;entrepreneur&nbsp;&nbsp;&nbsp;with&nbsp;&nbsp;&nbsp;passion&nbsp;&nbsp;f&nbsp;or&nbsp;&nbsp;&nbsp;unleashing&nbsp;&nbsp;&nbsp;benefits&nbsp;&nbsp;&nbsp;of&nbsp;&nbsp;&nbsp;new&nbsp; technologies&nbsp;&nbsp;&nbsp;&amp;&nbsp;&nbsp;&nbsp;security",
           "media2_1": {
             "iconFont": {
               "active": true,
@@ -1149,6 +1185,67 @@
           }
         },
         {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTestimonials5",
+          "_params": {
+            "autoplay": true,
+            "timeout": 5,
+            "paddingTop": 2,
+            "paddingBottom": 1,
+            "slides": [
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/sting-logo-160x39.jpg",
+                    "link": "www.stockholminnovation.com/en/",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": true
+                  }
+                }
+              },
+              {
+                "active": true,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/kth-logo-142x160.png",
+                    "link": "https://www.kth.se/en/innovation",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": true
+                  }
+                }
+              }
+            ],
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/flight-mountains-sky-flying.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showSubtitle": true,
+            "showBullets": true,
+            "visibleSlides": "2",
+            "showArrows": true
+          },
+          "_anchor": "extTestimonials5-17",
+          "title": "OUR PARTNERS",
+          "subtitle": "\"Our clients\" carousel with adjustable number of visible clients."
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -1160,7 +1257,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#dbecff",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1173,7 +1270,12 @@
             }
           },
           "text1": "<strong>Address</strong><br>KTH INNOVATION<br>Lindstedtsvägen 24, floor 4, 100 44 Stockholm<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@cryptcert.com<br>\nPhone: +46 8790 97 07<br>",
-          "text2": "<strong>Links</strong><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">R</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li><li>Contact Us</li></ul>"
+          "text2": "<strong>Links</strong><ul><li><a class=\"text-primary\" href=\"https://mobirise.com/\">R</a></li><li><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li><li>Contact Us</li></ul>",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          }
         }
       ]
     },
@@ -1199,13 +1301,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#28324e"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#28324e"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#28324e",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "font-family": "'Ubuntu', sans-serif"
             },
@@ -1219,16 +1321,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#a8d1ff"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#cce4ff!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#dbecff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#28324e",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1247,16 +1349,16 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-z",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#dbecff",
             "fontSize": "0.95",
             "fontName": {
               "name": "Ubuntu",
               "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "css": "'Ubuntu', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": false,
@@ -1341,7 +1443,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#dbecff",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1354,7 +1456,12 @@
             }
           },
           "text1": "<strong>Address</strong><br>KTH INNOVATION<br>Lindstedtsvägen 24, floor 4, 100 44 Stockholm<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@cryptcert.com<br>\nPhone: +46 8790 97 07<br>",
-          "text2": "<strong>Links</strong><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">R</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li><li>Contact Us</li></ul>"
+          "text2": "<strong>Links</strong><ul><li><a class=\"text-primary\" href=\"https://mobirise.com/\">R</a></li><li><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li><li>Contact Us</li></ul>",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          }
         }
       ]
     },
@@ -1380,13 +1487,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#28324e"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#28324e"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#28324e",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "font-family": "'Ubuntu', sans-serif"
             },
@@ -1400,16 +1507,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#a8d1ff"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#cce4ff!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#dbecff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#28324e",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1428,16 +1535,16 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-13",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#dbecff",
             "fontSize": "0.95",
             "fontName": {
               "name": "Ubuntu",
               "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "css": "'Ubuntu', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": false,
@@ -1589,7 +1696,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#dbecff",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1602,7 +1709,237 @@
             }
           },
           "text1": "<strong>Address</strong><br>KTH INNOVATION<br>Lindstedtsvägen 24, floor 4, 100 44 Stockholm<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@cryptcert.com<br>\nPhone: +46 8790 97 07<br>",
-          "text2": "<strong>Links</strong><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">R</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li><li>Contact Us</li></ul>"
+          "text2": "<strong>Links</strong><ul><li><a class=\"text-primary\" href=\"https://mobirise.com/\">R</a></li><li><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li><li>Contact Us</li></ul>",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    "contact.html": {
+      "settings": {
+        "title": "Cryptcert - Contact Us",
+        "meta_descr": "Cryptcert - Contact Us",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#28324e"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#28324e"
+            },
+            ".link, .dropdown-item": {
+              "color": "#28324e",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-family": "'Ubuntu', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#a8d1ff"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#cce4ff!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#dbecff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#28324e",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2969b0!important"
+            },
+            ".btn": {
+              "font-size": "14px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-19",
+          "_params": {
+            "bgColor": "#dbecff",
+            "fontSize": "0.95",
+            "fontName": {
+              "name": "Ubuntu",
+              "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "css": "'Ubuntu', sans-serif"
+            },
+            "fontColor": "#28324e",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/cryptcert-transparent-599x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Cryptcert</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-c\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures8-8\">Products</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures6-x\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Help</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">Request Demo</a></li>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader4",
+          "_anchor": "extHeader4-1c",
+          "_params": {
+            "formBorder": false,
+            "formColor": "#595959",
+            "formStyle": "light",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1125.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showIcons": true,
+            "showArrow": true
+          },
+          "form": {
+            "action": "info@cryptcert.com",
+            "alerts": {
+              "success": "Thanks for filling out form! We will be in touch soon."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone*"
+              },
+              "message": {
+                "title": "Message",
+                "visible": true,
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Submit</a>",
+          "title1": "CONTACT US",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "layers",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "title2": "BOOTSTRAP 4",
+          "text1": "Full-screen intro with background image, color overlay, icons and a subscribe form.",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "expand",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "title3": "MOBILE-READY",
+          "text2": "Lorem ipsum dolor sit amet consec tetur elit amet voluptas accusamus dolorum veritatis ea odio dolor emque."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "contacts2-1b",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#dbecff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Lindstedtsvägen 24, floor 4, 100 44 Stockholm",
+              "placeId": "ChIJD4OREUCdX0YRa15EyruLbv8",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>KTH INNOVATION<br>Lindstedtsvägen 24, floor 4, 100 44 Stockholm<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@cryptcert.com<br>\nPhone: +46 8790 97 07<br>",
+          "text2": "<strong>Links</strong><ul><li><a class=\"text-primary\" href=\"https://mobirise.com/\">R</a></li><li><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li><li>Contact Us</li></ul>"
         }
       ]
     }
