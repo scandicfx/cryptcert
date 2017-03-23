@@ -746,10 +746,10 @@ h6,
   color: #8c8c8c;
 }
 #extFeatures8-8 .mbr-section-title {
-  color: #ffffff;
+  color: #000000;
 }
 #extFeatures8-8 .feature-title {
-  color: #ffffff;
+  color: #000000;
 }
 #extFeatures4-b .mbr-iconfont-features4 {
   color: undefined !important;
@@ -758,7 +758,7 @@ h6,
   border-color: undefined !important;
 }
 #extFeatures4-b H4 {
-  color: #ffffff;
+  color: #000000;
 }
 #header3-u .mbr-section-title,
 #header3-u .mbr-section-subtitle {
@@ -769,7 +769,7 @@ h6,
   text-align: center;
 }
 #extFeatures6-x .card-img {
-  background-color: #3d8eb9 !important;
+  background-color: #d2efff !important;
 }
 
 #ext_menu-k .hide-buttons .nav-btn {
@@ -835,5 +835,137 @@ h6,
   color: #2969b0!important;
 }
 #ext_menu-k .btn {
+  font-size: 14px;
+}
+
+#ext_menu-z .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-z .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-z .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-z .close-icon::before,
+#ext_menu-z .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-z .link,
+#ext_menu-z .dropdown-item {
+  color: #ffffff;
+  font-family: 'Ubuntu', sans-serif;
+}
+#ext_menu-z .link {
+  font-size: 0.95rem;
+}
+#ext_menu-z .dropdown-item,
+#ext_menu-z .nav-dropdown-sm .link {
+  font-size: 1.029rem;
+}
+#ext_menu-z .link:hover,
+#ext_menu-z .dropdown-item:hover,
+#ext_menu-z .link:focus,
+#ext_menu-z .dropdown-item:focus {
+  color: #2969b0;
+}
+#ext_menu-z .link[aria-expanded="true"],
+#ext_menu-z .dropdown-menu {
+  background: #0e0e0e;
+}
+#ext_menu-z .nav-dropdown-sm .link:focus,
+#ext_menu-z .nav-dropdown-sm .link:hover,
+#ext_menu-z .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-z .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#ext_menu-z .navbar,
+#ext_menu-z .nav-dropdown-sm,
+#ext_menu-z .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-z .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#ext_menu-z .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-z .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-z .bg-color.transparent.opened .link:hover,
+#ext_menu-z .bg-color.transparent.opened .link:focus {
+  color: #2969b0;
+}
+#ext_menu-z .link[aria-expanded="true"],
+#ext_menu-z .dropdown-item[aria-expanded="true"] {
+  color: #2969b0!important;
+}
+#ext_menu-z .btn {
+  font-size: 14px;
+}
+
+#ext_menu-13 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-13 .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-13 .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-13 .close-icon::before,
+#ext_menu-13 .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-13 .link,
+#ext_menu-13 .dropdown-item {
+  color: #ffffff;
+  font-family: 'Ubuntu', sans-serif;
+}
+#ext_menu-13 .link {
+  font-size: 0.95rem;
+}
+#ext_menu-13 .dropdown-item,
+#ext_menu-13 .nav-dropdown-sm .link {
+  font-size: 1.029rem;
+}
+#ext_menu-13 .link:hover,
+#ext_menu-13 .dropdown-item:hover,
+#ext_menu-13 .link:focus,
+#ext_menu-13 .dropdown-item:focus {
+  color: #2969b0;
+}
+#ext_menu-13 .link[aria-expanded="true"],
+#ext_menu-13 .dropdown-menu {
+  background: #0e0e0e;
+}
+#ext_menu-13 .nav-dropdown-sm .link:focus,
+#ext_menu-13 .nav-dropdown-sm .link:hover,
+#ext_menu-13 .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-13 .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#ext_menu-13 .navbar,
+#ext_menu-13 .nav-dropdown-sm,
+#ext_menu-13 .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-13 .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#ext_menu-13 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-13 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-13 .bg-color.transparent.opened .link:hover,
+#ext_menu-13 .bg-color.transparent.opened .link:focus {
+  color: #2969b0;
+}
+#ext_menu-13 .link[aria-expanded="true"],
+#ext_menu-13 .dropdown-item[aria-expanded="true"] {
+  color: #2969b0!important;
+}
+#ext_menu-13 .btn {
   font-size: 14px;
 }
