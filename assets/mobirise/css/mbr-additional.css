@@ -1047,6 +1047,93 @@ h6,
 #ext_menu-19 .btn {
   font-size: 14px;
 }
+#extHeader4-1c H2 {
+  color: #000000;
+}
+#extHeader4-1c P {
+  color: #000000;
+}
+#extHeader4-1c .intro-box h4 {
+  color: #000000;
+}
 #contacts2-1b P {
+  color: #000000;
+}
+
+#ext_menu-1d .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-1d .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-1d .navbar-toggler {
+  color: #28324e;
+}
+#ext_menu-1d .close-icon::before,
+#ext_menu-1d .close-icon::after {
+  background-color: #28324e;
+}
+#ext_menu-1d .link,
+#ext_menu-1d .dropdown-item {
+  color: #28324e;
+  font-family: 'Ubuntu', sans-serif;
+}
+#ext_menu-1d .link {
+  font-size: 0.95rem;
+}
+#ext_menu-1d .dropdown-item,
+#ext_menu-1d .nav-dropdown-sm .link {
+  font-size: 1.029rem;
+}
+#ext_menu-1d .link:hover,
+#ext_menu-1d .dropdown-item:hover,
+#ext_menu-1d .link:focus,
+#ext_menu-1d .dropdown-item:focus {
+  color: #2969b0;
+}
+#ext_menu-1d .link[aria-expanded="true"],
+#ext_menu-1d .dropdown-menu {
+  background: #a8d1ff;
+}
+#ext_menu-1d .nav-dropdown-sm .link:focus,
+#ext_menu-1d .nav-dropdown-sm .link:hover,
+#ext_menu-1d .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-1d .nav-dropdown-sm .dropdown-item:hover {
+  background: #cce4ff!important;
+}
+#ext_menu-1d .navbar,
+#ext_menu-1d .nav-dropdown-sm,
+#ext_menu-1d .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-1d .nav-dropdown-sm .dropdown-menu {
+  background: #dbecff;
+}
+#ext_menu-1d .bg-color.transparent .link {
+  color: #28324e;
+  transition: none;
+}
+#ext_menu-1d .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-1d .bg-color.transparent.opened .link:hover,
+#ext_menu-1d .bg-color.transparent.opened .link:focus {
+  color: #2969b0;
+}
+#ext_menu-1d .link[aria-expanded="true"],
+#ext_menu-1d .dropdown-item[aria-expanded="true"] {
+  color: #2969b0!important;
+}
+#ext_menu-1d .btn {
+  font-size: 14px;
+}
+#extHeader4-1e H2 {
+  color: #000000;
+}
+#extHeader4-1e P {
+  color: #000000;
+}
+#extHeader4-1e .intro-box h4 {
+  color: #000000;
+}
+#contacts2-1f P {
   color: #000000;
 }
