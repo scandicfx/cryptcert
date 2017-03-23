@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-03-21_2327",
-    "currentPage": "about.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -324,7 +324,7 @@
           },
           "_anchor": "extFeatures4-b",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": 1,
             "bgImageRadio": false,
             "parallax": true,
@@ -444,7 +444,7 @@
           "_params": {
             "tabs": "5",
             "paddingTop": "1",
-            "paddingBottom": 2,
+            "paddingBottom": "4",
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extTabs1.jpg",
@@ -485,7 +485,7 @@
           "_name": "header3",
           "_anchor": "header3-v",
           "_params": {
-            "paddingTop": "5",
+            "paddingTop": "3",
             "paddingBottom": 1,
             "bgColor": "#ffffff",
             "showMeta": false
