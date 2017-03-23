@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-03-21_2327",
-    "currentPage": "demo.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -131,7 +131,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Cryptcert</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-c\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures8-8\">Products</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures6-x\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Help</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"demo.html\">Request Demo</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures8-8\">Products</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures6-x\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Help</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"demo.html\">Request Demo</a></li>"
         },
         {
           "_tags": [
@@ -600,6 +600,11 @@
             "Theme"
           ],
           "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "contacts2-7",
           "_params": {
             "paddingTop": "1",
@@ -620,12 +625,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>KTH INNOVATION<br>Lindstedtsvägen 24, Floor 4<br>100 44, Stockholm<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@cryptcert.com<br>\nPhone: +46 8790 97 07<br>",
-          "text2": "<strong>Links</strong><ul><li><a class=\"text-primary\" href=\"https://mobirise.com/\">R</a></li><li><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li><li>Contact Us</li></ul>",
-          "_styles": {
-            "P": {
-              "color": "#000000"
-            }
-          }
+          "text2": "<strong>Links</strong><ul><li><a class=\"text-primary\" href=\"https://mobirise.com/\">R</a></li><li><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li><li>Contact Us</li></ul>"
         }
       ]
     },
@@ -732,7 +732,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Cryptcert</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-c\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures8-8\">Products</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures6-x\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Help</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"demo.html\">Request Demo</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures8-8\">Products</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures6-x\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Help</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"demo.html\">Request Demo</a></li>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -1250,6 +1250,11 @@
             "Theme"
           ],
           "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "contacts2-q",
           "_params": {
             "paddingTop": "1",
@@ -1270,12 +1275,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>KTH INNOVATION<br>Lindstedtsvägen 24, Floor 4<br>100 44, Stockholm<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@cryptcert.com<br>\nPhone: +46 8790 97 07<br>",
-          "text2": "<strong>Links</strong><ul><li><a class=\"text-primary\" href=\"https://mobirise.com/\">R</a></li><li><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li><li>Contact Us</li></ul>",
-          "_styles": {
-            "P": {
-              "color": "#000000"
-            }
-          }
+          "text2": "<strong>Links</strong><ul><li><a class=\"text-primary\" href=\"https://mobirise.com/\">R</a></li><li><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li><li>Contact Us</li></ul>"
         }
       ]
     },
@@ -1436,6 +1436,11 @@
             "Theme"
           ],
           "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "contacts2-12",
           "_params": {
             "paddingTop": "1",
@@ -1456,12 +1461,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>KTH INNOVATION<br>Lindstedtsvägen 24, Floor 4<br>100 44, Stockholm<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@cryptcert.com<br>\nPhone: +46 8790 97 07<br>",
-          "text2": "<strong>Links</strong><ul><li><a class=\"text-primary\" href=\"https://mobirise.com/\">R</a></li><li><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li><li>Contact Us</li></ul>",
-          "_styles": {
-            "P": {
-              "color": "#000000"
-            }
-          }
+          "text2": "<strong>Links</strong><ul><li><a class=\"text-primary\" href=\"https://mobirise.com/\">R</a></li><li><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li><li>Contact Us</li></ul>"
         }
       ]
     },
@@ -1689,6 +1689,11 @@
             "Theme"
           ],
           "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "contacts2-15",
           "_params": {
             "paddingTop": "1",
@@ -1709,12 +1714,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>KTH INNOVATION<br>Lindstedtsvägen 24, Floor 4<br>100 44, Stockholm<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@cryptcert.com<br>\nPhone: +46 8790 97 07<br>",
-          "text2": "<strong>Links</strong><ul><li><a class=\"text-primary\" href=\"https://mobirise.com/\">R</a></li><li><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li><li>Contact Us</li></ul>",
-          "_styles": {
-            "P": {
-              "color": "#000000"
-            }
-          }
+          "text2": "<strong>Links</strong><ul><li><a class=\"text-primary\" href=\"https://mobirise.com/\">R</a></li><li><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li><li>Contact Us</li></ul>"
         }
       ]
     },
@@ -1829,6 +1829,17 @@
             "Extension"
           ],
           "_name": "extHeader4",
+          "_styles": {
+            "H2": {
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#000000"
+            },
+            ".intro-box h4": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "extHeader4-1c",
           "_params": {
             "formBorder": true,
@@ -1908,18 +1919,7 @@
             }
           },
           "title3": "MOBILE-READY",
-          "text2": "Lorem ipsum dolor sit amet consec tetur elit amet voluptas accusamus dolorum veritatis ea odio dolor emque.",
-          "_styles": {
-            "H2": {
-              "color": "#000000"
-            },
-            "P": {
-              "color": "#000000"
-            },
-            ".intro-box h4": {
-              "color": "#000000"
-            }
-          }
+          "text2": "Lorem ipsum dolor sit amet consec tetur elit amet voluptas accusamus dolorum veritatis ea odio dolor emque."
         },
         {
           "_tags": [
@@ -2058,7 +2058,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Cryptcert</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-c\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures8-8\">Products</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures6-x\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Help</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"demo.html\">Request Demo</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures8-8\">Products</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures6-x\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Help</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"demo.html\">Request Demo</a></li>"
         },
         {
           "alias": "mobirise3-blocks/components",
