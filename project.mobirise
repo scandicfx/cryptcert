@@ -17,12 +17,13 @@
         "textFont": "Oxygen",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true
+        "isScrollToTopButton": true,
+        "isRtl": false
       }
     },
     "versionFirst": "3.11.1",
     "uniqCompNum": 57,
-    "versionPublish": "3.11.1",
+    "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -2038,7 +2039,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/play-button5.svg",
+              "src": "@PROJECT_PATH@/assets/images/play-button0.svg",
               "link": "https://youtu.be/oBVpSsejJ3k",
               "alt": "",
               "title": "",
