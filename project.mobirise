@@ -517,13 +517,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#3d8eb9"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#3d8eb9"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#3d8eb9",
+              "color": "#ffffff",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "font-family": "'Ubuntu', sans-serif"
             },
@@ -537,16 +537,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#a8d1ff"
+              "background": "#1f5087"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#cce4ff!important"
+              "background": "#2662a4!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#dbecff"
+              "background": "#2969b0"
             },
             ".bg-color.transparent .link": {
-              "color": "#3d8eb9",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -556,7 +556,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#2969b0!important"
+              "color": "#28324e!important"
             },
             ".btn": {
               "font-size": "14px"
@@ -1175,13 +1175,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#3d8eb9"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#3d8eb9"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#3d8eb9",
+              "color": "#ffffff",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "font-family": "'Ubuntu', sans-serif"
             },
@@ -1195,16 +1195,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#a8d1ff"
+              "background": "#1f5087"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#cce4ff!important"
+              "background": "#2662a4!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#dbecff"
+              "background": "#2969b0"
             },
             ".bg-color.transparent .link": {
-              "color": "#3d8eb9",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1214,7 +1214,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#2969b0!important"
+              "color": "#28324e!important"
             },
             ".btn": {
               "font-size": "14px"
@@ -1242,7 +1242,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cryptcert-140x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logotrans-171x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1437,13 +1437,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#3d8eb9"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#3d8eb9"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#3d8eb9",
+              "color": "#ffffff",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "font-family": "'Ubuntu', sans-serif"
             },
@@ -1457,16 +1457,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#a8d1ff"
+              "background": "#1f5087"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#cce4ff!important"
+              "background": "#2662a4!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#dbecff"
+              "background": "#2969b0"
             },
             ".bg-color.transparent .link": {
-              "color": "#3d8eb9",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1476,7 +1476,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#2969b0!important"
+              "color": "#28324e!important"
             },
             ".btn": {
               "font-size": "14px"
@@ -1985,7 +1985,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cryptcert-140x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logotrans-171x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2038,7 +2038,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/play-button4.svg",
+              "src": "@PROJECT_PATH@/assets/images/play-button5.svg",
               "link": "https://youtu.be/oBVpSsejJ3k",
               "alt": "",
               "title": "",

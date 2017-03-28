@@ -780,15 +780,15 @@ h6,
   color: #ffffff;
 }
 #ext_menu-k .navbar-toggler {
-  color: #3d8eb9;
+  color: #ffffff;
 }
 #ext_menu-k .close-icon::before,
 #ext_menu-k .close-icon::after {
-  background-color: #3d8eb9;
+  background-color: #ffffff;
 }
 #ext_menu-k .link,
 #ext_menu-k .dropdown-item {
-  color: #3d8eb9;
+  color: #ffffff;
   font-family: 'Ubuntu', sans-serif;
 }
 #ext_menu-k .link {
@@ -806,22 +806,22 @@ h6,
 }
 #ext_menu-k .link[aria-expanded="true"],
 #ext_menu-k .dropdown-menu {
-  background: #a8d1ff;
+  background: #1f5087;
 }
 #ext_menu-k .nav-dropdown-sm .link:focus,
 #ext_menu-k .nav-dropdown-sm .link:hover,
 #ext_menu-k .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-k .nav-dropdown-sm .dropdown-item:hover {
-  background: #cce4ff!important;
+  background: #2662a4!important;
 }
 #ext_menu-k .navbar,
 #ext_menu-k .nav-dropdown-sm,
 #ext_menu-k .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-k .nav-dropdown-sm .dropdown-menu {
-  background: #dbecff;
+  background: #2969b0;
 }
 #ext_menu-k .bg-color.transparent .link {
-  color: #3d8eb9;
+  color: #ffffff;
   transition: none;
 }
 #ext_menu-k .bg-color.transparent.opened .link {
@@ -833,7 +833,7 @@ h6,
 }
 #ext_menu-k .link[aria-expanded="true"],
 #ext_menu-k .dropdown-item[aria-expanded="true"] {
-  color: #2969b0!important;
+  color: #28324e!important;
 }
 #ext_menu-k .btn {
   font-size: 14px;
@@ -855,15 +855,15 @@ h6,
   color: #ffffff;
 }
 #ext_menu-13 .navbar-toggler {
-  color: #3d8eb9;
+  color: #ffffff;
 }
 #ext_menu-13 .close-icon::before,
 #ext_menu-13 .close-icon::after {
-  background-color: #3d8eb9;
+  background-color: #ffffff;
 }
 #ext_menu-13 .link,
 #ext_menu-13 .dropdown-item {
-  color: #3d8eb9;
+  color: #ffffff;
   font-family: 'Ubuntu', sans-serif;
 }
 #ext_menu-13 .link {
@@ -881,22 +881,22 @@ h6,
 }
 #ext_menu-13 .link[aria-expanded="true"],
 #ext_menu-13 .dropdown-menu {
-  background: #a8d1ff;
+  background: #1f5087;
 }
 #ext_menu-13 .nav-dropdown-sm .link:focus,
 #ext_menu-13 .nav-dropdown-sm .link:hover,
 #ext_menu-13 .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-13 .nav-dropdown-sm .dropdown-item:hover {
-  background: #cce4ff!important;
+  background: #2662a4!important;
 }
 #ext_menu-13 .navbar,
 #ext_menu-13 .nav-dropdown-sm,
 #ext_menu-13 .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-13 .nav-dropdown-sm .dropdown-menu {
-  background: #dbecff;
+  background: #2969b0;
 }
 #ext_menu-13 .bg-color.transparent .link {
-  color: #3d8eb9;
+  color: #ffffff;
   transition: none;
 }
 #ext_menu-13 .bg-color.transparent.opened .link {
@@ -908,7 +908,7 @@ h6,
 }
 #ext_menu-13 .link[aria-expanded="true"],
 #ext_menu-13 .dropdown-item[aria-expanded="true"] {
-  color: #2969b0!important;
+  color: #28324e!important;
 }
 #ext_menu-13 .btn {
   font-size: 14px;
@@ -927,15 +927,15 @@ h6,
   color: #ffffff;
 }
 #ext_menu-19 .navbar-toggler {
-  color: #3d8eb9;
+  color: #ffffff;
 }
 #ext_menu-19 .close-icon::before,
 #ext_menu-19 .close-icon::after {
-  background-color: #3d8eb9;
+  background-color: #ffffff;
 }
 #ext_menu-19 .link,
 #ext_menu-19 .dropdown-item {
-  color: #3d8eb9;
+  color: #ffffff;
   font-family: 'Ubuntu', sans-serif;
 }
 #ext_menu-19 .link {
@@ -953,22 +953,22 @@ h6,
 }
 #ext_menu-19 .link[aria-expanded="true"],
 #ext_menu-19 .dropdown-menu {
-  background: #a8d1ff;
+  background: #1f5087;
 }
 #ext_menu-19 .nav-dropdown-sm .link:focus,
 #ext_menu-19 .nav-dropdown-sm .link:hover,
 #ext_menu-19 .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-19 .nav-dropdown-sm .dropdown-item:hover {
-  background: #cce4ff!important;
+  background: #2662a4!important;
 }
 #ext_menu-19 .navbar,
 #ext_menu-19 .nav-dropdown-sm,
 #ext_menu-19 .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-19 .nav-dropdown-sm .dropdown-menu {
-  background: #dbecff;
+  background: #2969b0;
 }
 #ext_menu-19 .bg-color.transparent .link {
-  color: #3d8eb9;
+  color: #ffffff;
   transition: none;
 }
 #ext_menu-19 .bg-color.transparent.opened .link {
@@ -980,7 +980,7 @@ h6,
 }
 #ext_menu-19 .link[aria-expanded="true"],
 #ext_menu-19 .dropdown-item[aria-expanded="true"] {
-  color: #2969b0!important;
+  color: #28324e!important;
 }
 #ext_menu-19 .btn {
   font-size: 14px;
