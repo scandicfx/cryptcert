@@ -1148,6 +1148,16 @@ h6,
 #extFeatures4-1h P {
   text-align: left;
 }
+#features4-1k .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-1k .iconbox {
+  background-color: #ffffff;
+  border-color: #ffffff;
+}
+#features4-1k P {
+  text-align: left;
+}
 #extFeatures4-1i .mbr-iconfont-features4 {
   color: undefined !important;
 }
