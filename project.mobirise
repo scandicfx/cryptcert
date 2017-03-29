@@ -1,12 +1,12 @@
 {
   "settings": {
     "name": "NewSite-03-21_2327",
-    "currentPage": "index.html",
+    "currentPage": "spider.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#3ba4db",
+        "primaryColor": "#ffffff",
         "secondaryColor": "#2969b0",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 62,
+    "uniqCompNum": 63,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -51,13 +51,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#3d8eb9"
+              "color": "#3ba4db"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#3d8eb9"
+              "background-color": "#3ba4db"
             },
             ".link, .dropdown-item": {
-              "color": "#3d8eb9",
+              "color": "#3ba4db",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "font-family": "'Ubuntu', sans-serif"
             },
@@ -80,7 +80,7 @@
               "background": "#323232"
             },
             ".bg-color.transparent .link": {
-              "color": "#3d8eb9",
+              "color": "#3ba4db",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -90,7 +90,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#3ba4db!important"
+              "color": "#ffffff!important"
             },
             ".btn": {
               "font-size": "14px"
@@ -106,7 +106,7 @@
               "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "css": "'Ubuntu', sans-serif"
             },
-            "fontColor": "#3d8eb9",
+            "fontColor": "#3ba4db",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -288,65 +288,6 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-u",
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "0",
-            "bgColor": "#dbecff",
-            "showMeta": false
-          },
-          "title": "Virtue of <span style=\"font-weight: normal;\"><i>SPIDER</i></span>",
-          "meta": "By John Smith posted July 20, 2016"
-        },
-        {
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extTabs1",
-          "_anchor": "extTabs1-t",
-          "_params": {
-            "tabs": "5",
-            "paddingTop": "1",
-            "paddingBottom": "2",
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extTabs1.jpg",
-            "bgColor": "#dbecff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.2,
-            "overlayColor": "#151515",
-            "showTitles": true
-          },
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-t\" aria-expanded=\"false\">Secure</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-t\" aria-expanded=\"false\">Compliance</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-t\" aria-expanded=\"false\">Assurance</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-t\" aria-expanded=\"false\">Satisfaction</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-t\" aria-expanded=\"true\">Prevention</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-t\">Beautiful</a></li>",
-          "title1": "FULLY SECURE YOUR DATA",
-          "text1": "Encrypt and manage access to all of your data, wherever it lives in the cloud, inside and outside of your organization",
-          "title2": "COMPLY AUTOMATICALLY",
-          "text2": "By using CryptCert you become instantly compliant with a number of new privacy regulations and standards.<br>",
-          "title3": "KEEP YOUR PROMISES",
-          "text3": "Guarantee your customers true confidentiality of their data, even if it’s stolen or you’re forced legally to provide it to another party.<br>",
-          "title4": "YOU WILL LOVE IT",
-          "text4": "Let your customers use whatever cloud storage and email service they want to share files and communicate with you.<br>",
-          "title5": "PREVENT LEAKS",
-          "text5": "Employees can store company information securely even in their private cloud storage services. Empower employees to secure the company data rather than rely on people following your guidelines 100% of the time",
-          "title6": "Tab heading 6",
-          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio."
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
           "_anchor": "header3-v",
           "_params": {
             "paddingTop": "3",
@@ -354,7 +295,7 @@
             "bgColor": "#ffffff",
             "showMeta": false
           },
-          "title": "Other Services For You",
+          "title": "Our Services For You",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -558,7 +499,7 @@
               "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "css": "'Ubuntu', sans-serif"
             },
-            "fontColor": "#3d8eb9",
+            "fontColor": "#3ba4db",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -1216,7 +1157,7 @@
               "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "css": "'Ubuntu', sans-serif"
             },
-            "fontColor": "#3d8eb9",
+            "fontColor": "#3ba4db",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -1408,13 +1349,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#3ba4db"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#3ba4db"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#3ba4db",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "font-family": "'Ubuntu', sans-serif"
             },
@@ -1437,7 +1378,7 @@
               "background": "#323232"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#3ba4db",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1447,7 +1388,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#3ba4db!important"
+              "color": "#ffffff!important"
             },
             ".btn": {
               "font-size": "14px"
@@ -1463,7 +1404,7 @@
               "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "css": "'Ubuntu', sans-serif"
             },
-            "fontColor": "#3d8eb9",
+            "fontColor": "#3ba4db",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -1526,7 +1467,7 @@
             "showSubtitle": true,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">DOWNLOAD FOR WINDOWS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE</a>"
           },
           "title": "DROP US A LINE",
           "media1": {
@@ -1616,13 +1557,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#3ba4db"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#3ba4db"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#3ba4db",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "font-family": "'Ubuntu', sans-serif"
             },
@@ -1645,7 +1586,7 @@
               "background": "#323232"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#3ba4db",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1655,7 +1596,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#3ba4db!important"
+              "color": "#ffffff!important"
             },
             ".btn": {
               "font-size": "14px"
@@ -1671,7 +1612,7 @@
               "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "css": "'Ubuntu', sans-serif"
             },
-            "fontColor": "#3d8eb9",
+            "fontColor": "#3ba4db",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -1736,7 +1677,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/play-button7.svg",
+              "src": "@PROJECT_PATH@/assets/images/play-button8.svg",
               "link": "https://youtu.be/oBVpSsejJ3k",
               "alt": "",
               "title": "",
@@ -2128,6 +2069,26 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1q",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Virtue of <span style=\"font-weight: normal;\"><i>SPIDER</i></span>",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
           "title": "INTRO WITH FORM",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND</a>",
@@ -2138,14 +2099,14 @@
           "_name": "extTabs2",
           "_anchor": "extTabs2-1p",
           "_params": {
-            "tabs": "3",
+            "tabs": "5",
             "imageSize": 50,
             "paddingTop": 3,
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extTabs2_bg.jpg",
-            "bgColor": "#f7f7f7",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2176,19 +2137,27 @@
               "size": 250
             }
           },
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs2-1p\" aria-expanded=\"true\">Responsive</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs2-1p\" aria-expanded=\"false\">Creative</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs2-1p\">Animated</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs2-1p\">Awesome</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs2-1p\">Amazing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs2-1p\">Beautiful</a></li>",
-          "title1": "BOOST YOUR RANKING",
-          "text1": "Sites made with Mobirise are 100% mobile-friendly according the latest Google Test and Google loves those websites (officially)!",
-          "title2": "BOOTSTRAP BUILDER",
-          "text2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
-          "title3": "TRENDY WEBSITE BLOCKS",
-          "text3": "Choose from the large selection of latest pre-made blocks - full-screen intro, bootstrap carousel, content slider, responsive image gallery with lightbox, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title4": "Tab heading 4",
-          "text4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
-          "title5": "Tab heading 5",
-          "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs2-1p\" aria-expanded=\"false\">Secure</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs2-1p\" aria-expanded=\"false\">Compliance</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs2-1p\" aria-expanded=\"false\">Assurance</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs2-1p\" aria-expanded=\"false\">Satisfaction</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs2-1p\" aria-expanded=\"true\">Prevention</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs2-1p\">Beautiful</a></li>",
+          "title1": "FULLY SECURE YOUR DATA",
+          "text1": "Encrypt and manage access to all of your data, wherever it lives in the cloud, inside and outside of your organization.",
+          "title2": "COMPLY STRAIGHT AWAY",
+          "text2": "By using CryptCert you become instantly compliant with a number of new privacy regulations and standards.",
+          "title3": "KEEP YOUR PROMISES",
+          "text3": "Guarantee your customers true confidentiality of their data, even if it’s stolen or you’re forced legally to provide it to another party.",
+          "title4": "<p>YOU WILL LOVE IT</p>",
+          "text4": "Let your customers use whatever cloud storage and email service they want to share files and communicate with you.",
+          "title5": "PREVENT LEAKS",
+          "text5": "Employees can store company information securely even in their private cloud storage services. Empower employees to secure the company data rather than rely on people following your guidelines 100% of the time.",
           "title6": "Tab heading 6",
-          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio."
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_tags": [
