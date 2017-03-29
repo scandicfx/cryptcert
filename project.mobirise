@@ -2073,7 +2073,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/play-button3.svg",
+              "src": "@PROJECT_PATH@/assets/images/play-button4.svg",
               "link": "https://youtu.be/oBVpSsejJ3k",
               "alt": "",
               "title": "",
