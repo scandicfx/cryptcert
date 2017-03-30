@@ -85,7 +85,7 @@ h6,
   background-color: #7e9b9f !important;
 }
 .bg-warning {
-  background-color: #f3c649 !important;
+  background-color: #3ba4db !important;
 }
 .bg-danger {
   background-color: #3d8eb9 !important;
@@ -171,8 +171,8 @@ h6,
   border-color: #6a8153 !important;
 }
 .btn-warning {
-  background-color: #f3c649;
-  border-color: #f3c649;
+  background-color: #3ba4db;
+  border-color: #3ba4db;
   color: #ffffff;
 }
 .btn-warning:hover,
@@ -181,14 +181,14 @@ h6,
 .btn-warning:active,
 .btn-warning.active {
   color: #ffffff;
-  background-color: #e1a90f;
-  border-color: #e1a90f;
+  background-color: #1f7aaa;
+  border-color: #1f7aaa;
 }
 .btn-warning.disabled,
 .btn-warning:disabled {
   color: #ffffff !important;
-  background-color: #e1a90f !important;
-  border-color: #e1a90f !important;
+  background-color: #1f7aaa !important;
+  border-color: #1f7aaa !important;
 }
 .btn-danger {
   background-color: #3d8eb9;
@@ -292,8 +292,8 @@ h6,
 }
 .btn-warning-outline {
   background: none;
-  border-color: #c9970d;
-  color: #c9970d;
+  border-color: #1b6b95;
+  color: #1b6b95;
 }
 .btn-warning-outline:hover,
 .btn-warning-outline:focus,
@@ -301,14 +301,14 @@ h6,
 .btn-warning-outline:active,
 .btn-warning-outline.active {
   color: #ffffff;
-  background-color: #f3c649;
-  border-color: #f3c649;
+  background-color: #3ba4db;
+  border-color: #3ba4db;
 }
 .btn-warning-outline.disabled,
 .btn-warning-outline:disabled {
   color: #ffffff !important;
-  background-color: #f3c649 !important;
-  border-color: #f3c649 !important;
+  background-color: #3ba4db !important;
+  border-color: #3ba4db !important;
 }
 .btn-danger-outline {
   background: none;
@@ -340,7 +340,7 @@ h6,
   color: #7e9b9f !important;
 }
 .text-warning {
-  color: #f3c649 !important;
+  color: #3ba4db !important;
 }
 .text-danger {
   color: #3d8eb9 !important;
@@ -352,7 +352,7 @@ h6,
   background-color: #7e9b9f;
 }
 .alert-warning {
-  background-color: #f3c649;
+  background-color: #3ba4db;
 }
 .alert-danger {
   background-color: #3d8eb9;
@@ -399,7 +399,7 @@ h6,
 }
 .mbr-plan-header.bg-warning .mbr-plan-subtitle,
 .mbr-plan-header.bg-warning .mbr-plan-price-desc {
-  color: #ffffff;
+  color: #e7f4fb;
 }
 .mbr-plan-header.bg-danger .mbr-plan-subtitle,
 .mbr-plan-header.bg-danger .mbr-plan-price-desc {
@@ -770,15 +770,15 @@ h6,
   color: #ffffff;
 }
 #ext_menu-k .navbar-toggler {
-  color: #ffffff;
+  color: #3ba4db;
 }
 #ext_menu-k .close-icon::before,
 #ext_menu-k .close-icon::after {
-  background-color: #ffffff;
+  background-color: #3ba4db;
 }
 #ext_menu-k .link,
 #ext_menu-k .dropdown-item {
-  color: #ffffff;
+  color: #3ba4db;
   font-family: 'Ubuntu', sans-serif;
 }
 #ext_menu-k .link {
@@ -811,7 +811,7 @@ h6,
   background: #323232;
 }
 #ext_menu-k .bg-color.transparent .link {
-  color: #ffffff;
+  color: #3ba4db;
   transition: none;
 }
 #ext_menu-k .bg-color.transparent.opened .link {
@@ -823,7 +823,7 @@ h6,
 }
 #ext_menu-k .link[aria-expanded="true"],
 #ext_menu-k .dropdown-item[aria-expanded="true"] {
-  color: #3ba4db!important;
+  color: #ffffff!important;
 }
 #ext_menu-k .btn {
   font-size: 14px;
@@ -845,15 +845,15 @@ h6,
   color: #ffffff;
 }
 #ext_menu-13 .navbar-toggler {
-  color: #ffffff;
+  color: #3ba4db;
 }
 #ext_menu-13 .close-icon::before,
 #ext_menu-13 .close-icon::after {
-  background-color: #ffffff;
+  background-color: #3ba4db;
 }
 #ext_menu-13 .link,
 #ext_menu-13 .dropdown-item {
-  color: #ffffff;
+  color: #3ba4db;
   font-family: 'Ubuntu', sans-serif;
 }
 #ext_menu-13 .link {
@@ -886,7 +886,7 @@ h6,
   background: #323232;
 }
 #ext_menu-13 .bg-color.transparent .link {
-  color: #ffffff;
+  color: #3ba4db;
   transition: none;
 }
 #ext_menu-13 .bg-color.transparent.opened .link {
@@ -898,7 +898,7 @@ h6,
 }
 #ext_menu-13 .link[aria-expanded="true"],
 #ext_menu-13 .dropdown-item[aria-expanded="true"] {
-  color: #3ba4db!important;
+  color: #ffffff!important;
 }
 #ext_menu-13 .btn {
   font-size: 14px;
@@ -1051,14 +1051,14 @@ h6,
 #extFeatures4-1h P {
   text-align: left;
 }
-#features4-1k .card-subtitle {
+#features4-1r .card-subtitle {
   color: #bcbcbc;
 }
-#features4-1k .iconbox {
+#features4-1r .iconbox {
   background-color: #ffffff;
   border-color: #ffffff;
 }
-#features4-1k P {
+#features4-1r P {
   text-align: left;
 }
 #extFeatures4-1i .mbr-iconfont-features4 {
@@ -1066,6 +1066,9 @@ h6,
 }
 #extFeatures4-1i .wraper {
   border-color: undefined !important;
+}
+#extFeatures4-1i P {
+  text-align: left;
 }
 #header3-1q .mbr-section-title,
 #header3-1q .mbr-section-subtitle {
