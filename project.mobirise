@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-03-21_2327",
-    "currentPage": "index.html",
+    "currentPage": "spider.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -132,7 +132,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Cryptcert</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"spider.html\">Products</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Help</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://demo.cryptcert.com/\" target=\"_blank\">Demo</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"spider.html\">Products</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Help</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://demo.cryptcert.com/faces/login.xhtml\" target=\"_blank\">Demo</a></li>"
         },
         {
           "_tags": [
@@ -141,10 +141,12 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#2969b0"
             },
             ".mbr-section-lead": {
-              "text-align": "right"
+              "text-align": "right",
+              "color": "#000000"
             }
           },
           "_anchor": "header1-2",
@@ -161,14 +163,14 @@
             "bgVideoRadio": true,
             "overlay": true,
             "overlayOpacity": 0.5,
-            "overlayColor": "#000000",
+            "overlayColor": "#ffffff",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
             "showButtons": false
           },
-          "title": "Liberate <br>Security &amp; Privacy <br> in the Cloud",
-          "text": "\"Imagination is more important than knowledge\" - Albert Einstein.<br>",
+          "title": "Liberate <br>Security &amp; Privacy <br>",
+          "text": "It's time to take control of your privacy and security of emails, documents shared by public cloud service providers integrated in one security platform.&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -219,8 +221,8 @@
             "showArrow": true
           },
           "title": "Cryptcert brings you... <span style=\"font-weight: normal;\"><i>SPIDER</i></span>",
-          "text": "Full-screen intro with background image, color overlay and icons. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"spider.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "text": "A platfrom lets you access all your emails &amp; files with ease. Spider lets you share files and communicate with your customers and colleagues in a truly secure way across your favourite cloud service providers like google, dropbox, etc.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"spider.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media1": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
@@ -290,7 +292,7 @@
           "_name": "header3",
           "_anchor": "header3-v",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "5",
             "paddingBottom": "0",
             "bgColor": "#ffffff",
             "showMeta": false
@@ -329,11 +331,11 @@
             "columns": 3,
             "showTitles": true,
             "showSubtitles": false,
-            "ShowTexts": true,
+            "ShowTexts": false,
             "showButtons": false,
             "showImages": true
           },
-          "title1": "Security Audit",
+          "title1": "IT Security Audit",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -350,7 +352,7 @@
               "newWindow": false
             }
           },
-          "title2": "HIPPA &amp; GDPR&nbsp;&nbsp;&nbsp;Compliance",
+          "title2": "GDPR&nbsp;&nbsp;&nbsp;Compliance",
           "subtitle2": "One of Bootstrap 4s big points",
           "caption2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -367,7 +369,7 @@
               "newWindow": false
             }
           },
-          "title3": "Consultancy",
+          "title3": "IT Security Consultancy",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -418,7 +420,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Cryptcert."
+          "text": "Copyright (c) 2017 Cryptcert AB."
         }
       ]
     },
@@ -525,7 +527,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Cryptcert</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"spider.html\">Products</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Help</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"demo.cryptcert.com\" target=\"_blank\">Demo</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"spider.html\">Products</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Help</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://demo.cryptcert.com/faces/login.xhtml\" target=\"_blank\">Demo</a></li>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -1183,7 +1185,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Cryptcert</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"spider.html\">Products</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Help</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"demo.cryptcert.com\" target=\"_blank\">Demo</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"spider.html\">Products</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Help</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://demo.cryptcert.com/faces/login.xhtml\" target=\"_blank\">Demo</a></li>"
         },
         {
           "_inherit": "features3",
@@ -1430,7 +1432,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Cryptcert</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"spider.html\">Products</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Help</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"demo.cryptcert.com\" target=\"_blank\">Demo</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"spider.html\">Products</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Help</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://demo.cryptcert.com/faces/login.xhtml\" target=\"_blank\">Demo</a></li>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -1467,7 +1469,7 @@
             "showSubtitle": true,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">DOWNLOAD FOR WINDOWS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE</a>"
           },
           "title": "DROP US A LINE",
           "media1": {
@@ -1638,7 +1640,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Cryptcert</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"spider.html\">Products</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Help</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://demo.cryptcert.com/\" target=\"_blank\">Demo</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"spider.html\">Products</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Help</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://demo.cryptcert.com/faces/login.xhtml\" target=\"_blank\">Demo</a></li>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -1677,7 +1679,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/play-button1.svg",
+              "src": "@PROJECT_PATH@/assets/images/play-button0.svg",
               "link": "https://youtu.be/oBVpSsejJ3k",
               "alt": "",
               "title": "",
@@ -1729,12 +1731,22 @@
               "border-color": "undefined !important"
             },
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "16px"
+            },
+            "SPAN": {
+              "font-size": "20px"
+            },
+            "DIV": {
+              "font-size": "20px"
+            },
+            "H4": {
+              "font-size": "20px"
             }
           },
           "_anchor": "extFeatures4-1h",
           "_params": {
-            "paddingTop": 2,
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -1770,7 +1782,7 @@
           },
           "title1": "Military Grade Encryption<div>&amp; Signing</div>",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Secure all your files using military grade 256-bit encryption based on where they are hosted. Have full control of your own secret key to encrypt and decrypt all emails and documents on all cloud service providers",
+          "caption1": "Secure all your emails and files using military grade 256-bit encryption",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -1787,7 +1799,7 @@
           },
           "title2": "<span style=\"color: inherit; letter-spacing: -1px; line-height: 25.65px; background-color: transparent;\">Blockchain Based Identity</span><br><div>&amp; Authentication</div>",
           "subtitle2": "One of Bootstrap 4s big points",
-          "caption2": "<span style=\"background-color: transparent; font-size: 1rem; line-height: 1.5;\">Manage who can see what at a granular level. Create access groups based on geography, internals vs. externals or anything you can imagine.</span><br>",
+          "caption2": "Irrefutable identity verification using digital signatures based on public key cryptography<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -1797,14 +1809,14 @@
               "family": "iconsMind",
               "active": true,
               "link": "",
-              "size": 0,
+              "size": "",
               "color": "#2c82c9",
               "newWindow": false
             }
           },
-          "title3": "Single Platform",
+          "title3": "Single Interface",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Single interface to handle all encryption processes across storgae and email providers",
+          "caption3": "Single interface to handle all encryption processes across email &amp; storgae providers",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -1819,9 +1831,9 @@
               "newWindow": false
             }
           },
-          "title4": "Storage &amp; Sharing",
+          "title4": "Email, Storage &amp; Sharing",
           "subtitle4": "Mobirise gives you the freedom",
-          "caption4": "Connect all of your cloud storage accounts from Google, Dropbox, Microsoft and other providers in one platform.<br>",
+          "caption4": "Connect all of your cloud storage accounts from Google, Dropbox, Microsoft and other providers in one platform<br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
@@ -1844,7 +1856,7 @@
           "_anchor": "features4-1r",
           "_params": {
             "iconsBgColor": "#ffffff",
-            "paddingTop": 2,
+            "paddingTop": "0",
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
@@ -1858,7 +1870,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "4",
+            "columns": "5",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
@@ -1869,17 +1881,17 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
               "linkInNewWindow": false,
-              "name": "edit",
-              "family": "MobiriseIcons",
+              "name": "user-fingerprint",
+              "family": "icon54-v2",
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
               "color": "#2c82c9"
             }
           },
-          "title1": "Digital Notary",
+          "title1": "Digital Signature",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption1": "Provide assurances about the validity and authenticity of email &amp; documents using PKI standards",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -1895,13 +1907,46 @@
           },
           "title2": "Full Control",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Manage your own secret keys to encrypt and decrypt all emails and documents on all cloud service providers also manage and control document sharing, distribution groups and connected secret keys",
+          "caption2": "Have full control and manage your emails and documents on all popular cloud service providers",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
               "linkInNewWindow": false,
-              "name": "devices",
+              "name": "key-hold",
+              "family": "icon54-v2",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#2c82c9",
+              "newWindow": false
+            }
+          },
+          "title3": "Key &amp; Certificate Management",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "All security keys and certificates are managed by SPIDER by default or you can take control of your own keys",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "search-task",
+              "family": "icon54-v2",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#2c82c9"
+            }
+          },
+          "title4": "Audit &amp; Compliance",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Protects privacy helping to get General Data Protection Regulation (GDPR) compliance.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "database",
               "family": "MobiriseIcons",
               "active": true,
               "link": "",
@@ -1910,40 +1955,9 @@
               "newWindow": false
             }
           },
-          "title3": "Cross-Platform",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Seamless exchange files between Dropbox and Google Drive",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "user-fingerprint",
-              "family": "icon54-v2",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#2c82c9"
-            }
-          },
-          "title4": "Digital Signature",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "briefcase",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title5": "Trendy Website Blocks",
+          "title5": "Transformation of Digital Assets",
           "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "caption5": "Ssecure integration to convert data or information from one format to another and transfer though Email or Storage",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "iconFont": {
@@ -1962,115 +1976,6 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extFeatures4",
-          "_styles": {
-            ".mbr-iconfont-features4": {
-              "color": "undefined !important"
-            },
-            ".wraper": {
-              "border-color": "undefined !important"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "extFeatures4-1i",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 1,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures4_bg.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.6,
-            "overlayColor": "#222",
-            "columns": "3",
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": false
-          },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "data-center",
-              "family": "iconsMind",
-              "active": true,
-              "link": "",
-              "size": 0,
-              "color": "#2c82c9",
-              "newWindow": false
-            }
-          },
-          "title1": "Transformation of Digital Assets",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "key-hold",
-              "family": "icon54-v2",
-              "active": true,
-              "link": "",
-              "size": 0,
-              "color": "#2c82c9",
-              "newWindow": false
-            }
-          },
-          "title2": "Key &amp; Certificate Management",
-          "subtitle2": "One of Bootstrap 4s big points",
-          "caption2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "search-task",
-              "family": "icon54-v2",
-              "active": true,
-              "link": "",
-              "size": 0,
-              "color": "#2c82c9",
-              "newWindow": false
-            }
-          },
-          "title3": "Audit",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "file-search",
-              "family": "iconsMind",
-              "active": true,
-              "link": "",
-              "size": 0,
-              "color": "#2c82c9",
-              "newWindow": false
-            }
-          },
-          "title4": "Audit",
-          "subtitle4": "Mobirise gives you the freedom",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -2082,7 +1987,7 @@
           "_name": "header3",
           "_anchor": "header3-1q",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "4",
             "paddingBottom": 1,
             "bgColor": "#fff",
             "showMeta": false
@@ -2147,7 +2052,7 @@
               "size": 250
             }
           },
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs2-1p\" aria-expanded=\"false\">Secure</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs2-1p\" aria-expanded=\"false\">Compliance</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs2-1p\" aria-expanded=\"false\">Assurance</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs2-1p\" aria-expanded=\"false\">Satisfaction</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs2-1p\" aria-expanded=\"true\">Prevention</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs2-1p\">Beautiful</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs2-1p\" aria-expanded=\"true\">Security</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs2-1p\" aria-expanded=\"false\">Compliance</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs2-1p\" aria-expanded=\"false\">Assurance</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs2-1p\" aria-expanded=\"false\">Satisfaction</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs2-1p\" aria-expanded=\"true\">Prevention</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs2-1p\">Beautiful</a></li>",
           "title1": "FULLY SECURE YOUR DATA",
           "text1": "Encrypt and manage access to all of your data, wherever it lives in the cloud, inside and outside of your organization.",
           "title2": "COMPLY STRAIGHT AWAY",
@@ -2179,7 +2084,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Cryptcert."
+          "text": "Copyright (c) 2017 Cryptcert AB."
         }
       ]
     }
