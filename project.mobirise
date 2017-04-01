@@ -1649,7 +1649,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logotrans-171x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logosvg.svg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1674,6 +1674,9 @@
           "_styles": {
             "H3": {
               "color": "#3d8eb9"
+            },
+            "SPAN": {
+              "color": "#3d8eb9"
             }
           },
           "_anchor": "extHeader5-10",
@@ -1697,8 +1700,8 @@
             "showArrow": true,
             "VideoUrl": "https://www.youtube.com/watch?v=Tq7p44IA-1U"
           },
-          "title": "<span style=\"font-weight: normal;\"><i>SPIDER</i></span>",
-          "text": "Spider by CryptCert secures all your files from a single place wherever they are actually stored. It lets you share files and communicate with your customers and colleagues in a truly secure way across cloud service providers.",
+          "title": "<span style=\"font-style: italic; font-weight: normal;\">SPIDE</span><span style=\"font-weight: normal;\"><i>R</i></span>",
+          "text": "Security &amp; Privacy-preserving Integrated Environment for Realms (Spider) by CryptCert secures all your emails and files from a single place wherever they are actually stored. It lets you communicate and share files with your counterpart in a truly secure way across all service providers.",
           "media": {
             "image": {
               "active": true,
