@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 64,
+    "uniqCompNum": 66,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -1665,7 +1665,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.4,
+            "overlayOpacity": "0.8",
             "overlayColor": "#fff",
             "showTitle": true,
             "showText": true,
@@ -1679,7 +1679,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/play-button1.svg",
+              "src": "@PROJECT_PATH@/assets/images/play-button2.svg",
               "link": "https://youtu.be/oBVpSsejJ3k",
               "alt": "",
               "title": "",
@@ -1718,47 +1718,41 @@
           "meta": "By John Smith posted July 20, 2016"
         },
         {
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extFeatures4",
           "_styles": {
-            ".mbr-iconfont-features4": {
-              "color": "undefined !important"
+            ".card-subtitle": {
+              "color": "#bcbcbc"
             },
-            ".wraper": {
-              "border-color": "undefined !important"
-            },
-            "P": {
-              "text-align": "left",
-              "font-size": "16px"
-            },
-            "SPAN": {
-              "font-size": "20px"
-            },
-            "DIV": {
-              "font-size": "20px"
+            ".iconbox": {
+              "background-color": "#ffffff",
+              "border-color": "#ffffff"
             },
             "H4": {
-              "font-size": "20px"
+              "font-size": "18px"
+            },
+            "P": {
+              "text-align": "left"
             }
           },
-          "_anchor": "extFeatures4-1h",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features4",
+          "_anchor": "features4-1t",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "iconsBgColor": "#ffffff",
+            "paddingTop": 2,
+            "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures4_bg.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.6,
+            "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "columns": "4",
             "showImages": true,
@@ -1771,35 +1765,35 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
               "linkInNewWindow": false,
-              "name": "star-shield-2",
+              "name": "star-shield-1",
               "family": "icon54-v2",
               "active": true,
               "link": "",
               "size": 0,
-              "color": "#2c82c9",
+              "color": "#e25041",
               "newWindow": false
             }
           },
-          "title1": "Military Grade Encryption<div>&amp; Signing</div>",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Secure all your emails and files using military grade 256-bit encryption",
+          "title1": "Military Grade Encryption",
+          "subtitle1": "",
+          "caption1": "Secure all your emails and files using military grade 256-bit encryption add on with your signature",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
               "linkInNewWindow": false,
-              "name": "group-defense",
+              "name": "global",
               "family": "icon54-v2",
               "active": true,
               "link": "",
               "size": 0,
-              "color": "#2c82c9",
+              "color": "#e25041",
               "newWindow": false
             }
           },
-          "title2": "<span style=\"color: inherit; letter-spacing: -1px; line-height: 25.65px; background-color: transparent;\">Blockchain Based Identity</span><br><div>&amp; Authentication</div>",
-          "subtitle2": "One of Bootstrap 4s big points",
-          "caption2": "Irrefutable identity verification using digital signatures based on public key cryptography<br>",
+          "title2": "Blockchain Based Identity<div>&amp; Authentication</div>",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Irrefutable identity verification using digital signatures based on public key cryptography",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -1809,32 +1803,64 @@
               "family": "iconsMind",
               "active": true,
               "link": "",
-              "size": "",
-              "color": "#2c82c9",
+              "size": 0,
+              "color": "#e25041",
               "newWindow": false
             }
           },
-          "title3": "Single Interface",
+          "title3": "Single Integrated Interface",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Single interface to handle all encryption processes across email &amp; storgae providers",
+          "caption3": "Single interface to handle all encryption processes across email &amp; storage providers.&nbsp;Connect all of your cloud storage accounts i.e Google, Dropbox, Microsoft and other providers in one platform",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
               "linkInNewWindow": false,
-              "name": "cloud-secure",
-              "family": "iconsMind",
+              "name": "user-fingerprint",
+              "family": "icon54-v2",
               "active": true,
               "link": "",
               "size": 0,
-              "color": "#2c82c9",
+              "color": "#d14841",
               "newWindow": false
             }
           },
-          "title4": "Email, Storage &amp; Sharing",
-          "subtitle4": "Mobirise gives you the freedom",
-          "caption4": "Connect all of your cloud storage accounts from Google, Dropbox, Microsoft and other providers in one platform<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "title4": "Digital Signature",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "briefcase",
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#d14841",
+              "newWindow": false
+            }
+          },
+          "title5": "Integration",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Connect all of your cloud storage accounts i.e Google, Dropbox, Microsoft and other providers in one platform",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_styles": {
@@ -1847,6 +1873,9 @@
             },
             "P": {
               "text-align": "left"
+            },
+            "H4": {
+              "font-size": "18px"
             }
           },
           "_tags": [
@@ -1870,7 +1899,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "5",
+            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
@@ -1881,66 +1910,69 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
               "linkInNewWindow": false,
-              "name": "user-fingerprint",
-              "family": "icon54-v2",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#2c82c9"
-            }
-          },
-          "title1": "Digital Signature",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Provide assurances about the validity and authenticity of email &amp; documents using PKI standards",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "mixer",
-              "family": "iconsMind",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#2c82c9"
-            }
-          },
-          "title2": "Full Control",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Have full control and manage your emails and documents on all popular cloud service providers",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
               "name": "key-hold",
               "family": "icon54-v2",
               "active": true,
               "link": "",
               "size": 0,
-              "color": "#2c82c9",
+              "color": "#e25041",
               "newWindow": false
             }
           },
-          "title3": "Key &amp; Certificate Management",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "All security keys and certificates are managed by SPIDER by default or you can take control of your own keys",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
+          "title1": "Key &amp; Certificate Management",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "All security keys and certificates could be manage by the user.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "data-center",
+              "family": "iconsMind",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#e25041",
+              "newWindow": false
+            }
+          },
+          "title2": "Transformation of Digital Assets",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Secure integration to convert data or information from one format to another and transfer though Email or Storage",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
               "linkInNewWindow": false,
               "name": "search-task",
               "family": "icon54-v2",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "#2c82c9"
+              "color": "#e25041",
+              "newWindow": false
             }
           },
-          "title4": "Audit &amp; Compliance",
+          "title3": "Audit &amp; Compliance",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Protects privacy helping to get General Data Protection Regulation (GDPR) compliance.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "mixer-1",
+              "family": "icon54",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#e25041",
+              "newWindow": false
+            }
+          },
+          "title4": "Full Control",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Protects privacy helping to get General Data Protection Regulation (GDPR) compliance.",
+          "caption4": "Have full control on your accounts. No restriction on your account abilities.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -1957,7 +1989,7 @@
           },
           "title5": "Transformation of Digital Assets",
           "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Ssecure integration to convert data or information from one format to another and transfer though Email or Storage",
+          "caption5": "Secure integration to convert data or information from one format to another and transfer though Email or Storage",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "iconFont": {

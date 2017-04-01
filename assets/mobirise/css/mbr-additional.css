@@ -1044,24 +1044,18 @@ h6,
 #header3-1j .mbr-section-subtitle {
   text-align: center;
 }
-#extFeatures4-1h .mbr-iconfont-features4 {
-  color: undefined !important;
+#features4-1t .card-subtitle {
+  color: #bcbcbc;
 }
-#extFeatures4-1h .wraper {
-  border-color: undefined !important;
+#features4-1t .iconbox {
+  background-color: #ffffff;
+  border-color: #ffffff;
 }
-#extFeatures4-1h P {
+#features4-1t H4 {
+  font-size: 18px;
+}
+#features4-1t P {
   text-align: left;
-  font-size: 16px;
-}
-#extFeatures4-1h SPAN {
-  font-size: 20px;
-}
-#extFeatures4-1h DIV {
-  font-size: 20px;
-}
-#extFeatures4-1h H4 {
-  font-size: 20px;
 }
 #features4-1r .card-subtitle {
   color: #bcbcbc;
@@ -1072,6 +1066,9 @@ h6,
 }
 #features4-1r P {
   text-align: left;
+}
+#features4-1r H4 {
+  font-size: 18px;
 }
 #header3-1q .mbr-section-title,
 #header3-1q .mbr-section-subtitle {
