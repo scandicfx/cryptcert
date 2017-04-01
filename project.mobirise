@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Cryptcert",
-    "currentPage": "index.html",
+    "currentPage": "spider.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1473,7 +1473,7 @@
             "overlay": true,
             "overlayOpacity": 0.1,
             "overlayColor": "#000",
-            "inverse": true,
+            "inverse": false,
             "googleMap": {
               "address": "Lindstedtsvägen 24, Floor 4\n100 44, Stockholm",
               "placeId": "ChIJD4OREUCdX0YRa15EyruLbv8",
@@ -1486,7 +1486,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">DOWNLOAD FOR WINDOWS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"nav-link btn btn-warning\">Demo</a>"
           },
           "title": "DROP US A LINE",
           "media1": {
