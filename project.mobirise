@@ -26,7 +26,7 @@
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/logoai1-128x96.png",
+    "favicon": "",
     "noImageResize": "true",
     "google-analytics": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
