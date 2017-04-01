@@ -1044,6 +1044,9 @@ h6,
 #header3-1j .mbr-section-subtitle {
   text-align: center;
 }
+#header3-1j SPAN {
+  color: #3d8eb9;
+}
 #features4-1t .card-subtitle {
   color: #bcbcbc;
 }
@@ -1073,6 +1076,9 @@ h6,
 #header3-1q .mbr-section-title,
 #header3-1q .mbr-section-subtitle {
   text-align: center;
+}
+#header3-1q SPAN {
+  color: #3d8eb9;
 }
 #extTabs2-1p P {
   text-align: center;
