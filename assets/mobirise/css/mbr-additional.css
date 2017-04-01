@@ -741,7 +741,7 @@ h6,
   color: #000000;
 }
 #extHeader3-1g H3 {
-  color: #2969b0;
+  color: #3d8eb9;
 }
 #extHeader3-1g P {
   color: #000000;
@@ -762,7 +762,7 @@ h6,
   text-align: center;
 }
 #extFeatures6-x .card-img {
-  background-color: #ffffff !important;
+  background-color: #efefef !important;
 }
 
 #ext_menu-k .hide-buttons .nav-btn {
@@ -830,8 +830,11 @@ h6,
 #ext_menu-k .btn {
   font-size: 14px;
 }
-#extHeader5-r H3 {
+#header2-1u .mbr-section-title {
   color: #3d8eb9;
+}
+#header2-1u .mbr-section-text {
+  color: #000000;
 }
 #contacts2-q P {
   color: #000000;
@@ -905,6 +908,9 @@ h6,
 #ext_menu-13 .btn {
   font-size: 14px;
 }
+#features6-16 P {
+  text-align: left;
+}
 
 #ext_menu-19 .hide-buttons .nav-btn {
   display: none !important;
@@ -970,6 +976,9 @@ h6,
 }
 #ext_menu-19 .btn {
   font-size: 14px;
+}
+#extForm3-1o P {
+  color: #000000;
 }
 
 #ext_menu-z .hide-buttons .nav-btn {
