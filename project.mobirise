@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "NewSite-03-21_2327",
-    "currentPage": "spider.html",
+    "name": "Cryptcert",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -27,7 +27,7 @@
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
-    "noImageResize": "true",
+    "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
   },
@@ -122,7 +122,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logoai2-169x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logosvg.svg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -517,7 +517,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logoai2-169x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logosvg.svg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1183,7 +1183,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logotrans-171x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logosvg.svg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1435,7 +1435,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logoai2-169x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logosvg.svg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1486,7 +1486,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">DOWNLOAD FOR WINDOWS</a>"
           },
           "title": "DROP US A LINE",
           "media1": {
