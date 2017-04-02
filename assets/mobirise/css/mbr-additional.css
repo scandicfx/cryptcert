@@ -745,6 +745,7 @@ h6,
 }
 #extHeader3-1g P {
   color: #000000;
+  font-size: 20px;
 }
 #extHeader3-1g H5 {
   color: #000000;
@@ -979,6 +980,7 @@ h6,
 }
 #extForm3-1o P {
   color: #000000;
+  font-size: 15px;
 }
 
 #ext_menu-z .hide-buttons .nav-btn {
@@ -1052,6 +1054,9 @@ h6,
 #extHeader5-10 SPAN {
   color: #3d8eb9;
 }
+#extHeader5-10 P {
+  font-size: 20px;
+}
 #header3-1j .mbr-section-title,
 #header3-1j .mbr-section-subtitle {
   text-align: center;
@@ -1093,7 +1098,7 @@ h6,
   color: #3d8eb9;
 }
 #extTabs2-1p P {
-  text-align: center;
+  text-align: left;
 }
 #extTabs2-1p H3 {
   text-align: center;
