@@ -901,6 +901,9 @@ h6,
   font-size: 15px;
 }
 
+
+
+
 #ext_menu-z .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -981,6 +984,10 @@ h6,
 }
 #header3-1j SPAN {
   color: #3d8eb9;
+  font-family: 'Ubuntu', sans-serif;
+}
+#header3-1j H3 {
+  font-family: 'Ubuntu', sans-serif;
 }
 #features4-1t .card-subtitle {
   color: #bcbcbc;
@@ -1014,6 +1021,9 @@ h6,
 }
 #header3-1q SPAN {
   color: #3d8eb9;
+}
+#header3-1q H3 {
+  font-family: 'Ubuntu', sans-serif;
 }
 #extTabs2-1p P {
   text-align: left;

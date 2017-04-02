@@ -419,7 +419,7 @@
           "_name": "header2",
           "_anchor": "header2-1u",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "35",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
@@ -430,8 +430,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
-            "overlayColor": "#efefef",
+            "overlayOpacity": "0.8",
+            "overlayColor": "#c1c1c1",
             "inverse": false,
             "showTitle": true,
             "showText": true,
@@ -1345,7 +1345,13 @@
               "text-align": "center"
             },
             "SPAN": {
-              "color": "#3d8eb9"
+              "color": "#3d8eb9",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            "H3": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
             }
           },
           "_tags": [
@@ -1359,7 +1365,7 @@
             "bgColor": "#fff",
             "showMeta": false
           },
-          "title": "Elements of <span style=\"font-weight: normal;\"><i>SPIDER</i></span>",
+          "title": "Elements of <span style=\"font-weight: normal;\"><i>SPIDER</i></span><br>",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -1659,6 +1665,10 @@
             },
             "SPAN": {
               "color": "#3d8eb9"
+            },
+            "H3": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
             }
           },
           "_tags": [
@@ -1717,10 +1727,13 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-exttabs2.jpg"
+              "src": "@PROJECT_PATH@/assets/images/logosvg.svg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
-              "active": false,
               "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
               "aspectratio": "16:9",
               "autoplay": false,
@@ -1732,8 +1745,8 @@
               "size": 250
             }
           },
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs2-1p\" aria-expanded=\"false\">Security</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs2-1p\" aria-expanded=\"true\">Compliance</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs2-1p\" aria-expanded=\"false\">Assurance</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs2-1p\" aria-expanded=\"false\">Satisfaction</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs2-1p\" aria-expanded=\"false\">Prevention</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs2-1p\">Beautiful</a></li>",
-          "title1": "FULLY SECURE YOUR DATA",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs2-1p\" aria-expanded=\"false\">Security</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs2-1p\" aria-expanded=\"false\">Compliance</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs2-1p\" aria-expanded=\"false\">Assurance</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs2-1p\" aria-expanded=\"true\">Satisfaction</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs2-1p\" aria-expanded=\"false\">Prevention</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs2-1p\">Beautiful</a></li>",
+          "title1": "FULLY SECURE YOUR EMAIL &amp; DATA",
           "text1": "Encrypt and manage access to all of your data, wherever it lives in the cloud, inside and outside of your organization.",
           "title2": "COMPLY STRAIGHT AWAY",
           "text2": "By using CryptCert you become instantly compliant with a number of new privacy regulations and standards.",
