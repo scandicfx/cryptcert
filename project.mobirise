@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Cryptcert",
-    "currentPage": "spider.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -468,7 +468,8 @@
               "color": "#3d8eb9"
             },
             ".mbr-section-text": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "20px"
             }
           }
         },
