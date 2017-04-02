@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Cryptcert",
-    "currentPage": "index.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 67,
+    "uniqCompNum": 69,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -544,7 +544,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -552,7 +552,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlayOpacity": "0.7",
             "overlayColor": "#efefef",
             "inverse": false,
             "showTitle": true,
@@ -1004,16 +1004,16 @@
           ],
           "_name": "extTestimonials5",
           "_params": {
-            "autoplay": true,
-            "timeout": 5,
+            "autoplay": false,
+            "timeout": "1",
             "paddingTop": 2,
             "paddingBottom": 1,
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/sting-logo-160x39.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/sting-288x155.png",
                     "link": "www.stockholminnovation.com/en/",
                     "active": true,
                     "alt": "",
@@ -1023,10 +1023,10 @@
                 }
               },
               {
-                "active": true,
+                "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/kth-logo-142x160.png",
+                    "src": "@PROJECT_PATH@/assets/images/kth-288x155.png",
                     "link": "https://www.kth.se/en/innovation",
                     "active": true,
                     "alt": "",
@@ -1049,10 +1049,10 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
             "showTitle": true,
-            "showSubtitle": true,
-            "showBullets": true,
+            "showSubtitle": false,
+            "showBullets": false,
             "visibleSlides": "2",
-            "showArrows": true
+            "showArrows": false
           },
           "_anchor": "extTestimonials5-17",
           "title": "OUR PARTNERS",
@@ -1062,36 +1062,21 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts2",
-          "_styles": {
-            "P": {
-              "color": "#000000"
-            },
-            "STRONG": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "contacts2-q",
+          "_name": "footer1",
+          "_anchor": "footer1-1n",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": 2,
+            "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2969b0",
+            "bgColor": "#323232",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C",
-            "googleMap": {
-              "address": "Lindstedtsvägen 24, floor 4, 100 44 Stockholm",
-              "placeId": "ChIJD4OREUCdX0YRa15EyruLbv8",
-              "state": "ok",
-              "stateDetails": ""
-            }
+            "overlayColor": "#444444"
           },
-          "text1": "<strong>Address</strong><br>KTH INNOVATION<br>Lindstedtsvägen 24, Floor 4<br>100 44, Stockholm<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@cryptcert.com<br>\nPhone: +46 8790 97 07<br>",
-          "text2": "<strong>Links</strong><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">R</a></li><li><a class=\"text-warning\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-warning\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li><li>Contact Us</li></ul>"
+          "text": "Copyright (c) 2017 Cryptcert AB."
         }
       ]
     },
@@ -1343,7 +1328,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Cryptcert."
+          "text": "Copyright (c) 2017 Cryptcert AB."
         }
       ]
     },
@@ -1558,7 +1543,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Cryptcert."
+          "text": "Copyright (c) 2017 Cryptcert AB."
         }
       ]
     },
