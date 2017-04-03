@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 69,
+    "uniqCompNum": 70,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -479,6 +479,11 @@
             "Extension"
           ],
           "_name": "extTabs1",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "extTabs1-18",
           "_params": {
             "tabs": "3",
@@ -510,12 +515,7 @@
           "title5": "Tab heading 5",
           "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
           "title6": "Tab heading 6",
-          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          }
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio."
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -525,16 +525,29 @@
           "_name": "extTestimonials5",
           "_params": {
             "autoplay": false,
-            "timeout": "1",
+            "timeout": 5,
             "paddingTop": "1",
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "slides": [
               {
                 "active": true,
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/sting-288x155.png",
-                    "link": "www.stockholminnovation.com/en/",
+                    "link": "http://www.stockholminnovation.com/en",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": true
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/kth-288x155.png",
+                    "link": "https://www.kth.se/en/innovation",
                     "active": true,
                     "alt": "",
                     "title": "",
@@ -574,7 +587,7 @@
             "visibleSlides": "3",
             "showArrows": false
           },
-          "_anchor": "extTestimonials5-17",
+          "_anchor": "extTestimonials5-1x",
           "title": "COLLABORATIVE NETWORK",
           "subtitle": "\"Our clients\" carousel with adjustable number of visible clients."
         },
