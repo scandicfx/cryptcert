@@ -831,6 +831,9 @@ h6,
   color: #000000;
   font-size: 20px;
 }
+#extTabs1-18 P {
+  text-align: left;
+}
 
 #ext_menu-19 .hide-buttons .nav-btn {
   display: none !important;
