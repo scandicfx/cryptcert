@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Cryptcert",
-    "currentPage": "index.html",
+    "currentPage": "spider.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -753,7 +753,7 @@
               "state": "ok",
               "stateDetails": ""
             },
-            "showTitle": true,
+            "showTitle": false,
             "showContacts": true,
             "showIcons": true,
             "showSubtitle": false,
