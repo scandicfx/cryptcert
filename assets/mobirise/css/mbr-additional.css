@@ -1,6 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+
 
 
 
@@ -758,6 +760,10 @@ h6,
   color: #2969b0 !important;
   border-color: #2969b0;
 }
+#footer1-1n P {
+  font-family: 'Roboto', sans-serif;
+}
+
 
 #ext_menu-k .hide-buttons .nav-btn {
   display: none !important;
@@ -838,6 +844,10 @@ h6,
 #extTestimonials5-1x .mbr-section-title {
   font-size: 36px;
 }
+#footer1-1n P {
+  font-family: 'Roboto', sans-serif;
+}
+
 
 #ext_menu-19 .hide-buttons .nav-btn {
   display: none !important;
@@ -908,6 +918,10 @@ h6,
   color: #000000;
   font-size: 15px;
 }
+#footer1-1n P {
+  font-family: 'Roboto', sans-serif;
+}
+
 
 
 
@@ -1043,6 +1057,10 @@ h6,
 #extTabs2-1p H3 {
   text-align: center;
 }
+#footer1-1n P {
+  font-family: 'Roboto', sans-serif;
+}
+
 
 #ext_menu-13 .hide-buttons .nav-btn {
   display: none !important;
@@ -1111,4 +1129,7 @@ h6,
 }
 #features6-16 P {
   text-align: left;
+}
+#footer1-1n P {
+  font-family: 'Roboto', sans-serif;
 }

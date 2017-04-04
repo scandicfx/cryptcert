@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Cryptcert",
-    "currentPage": "index.html",
+    "currentPage": "spider.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -117,7 +117,7 @@
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -217,7 +217,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.9",
-            "overlayColor": "#ffffff",
+            "overlayColor": "#efefef",
             "showTitle": true,
             "showText": true,
             "showButtons": true,
@@ -303,7 +303,13 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Cryptcert AB."
+          "text": "Copyright © 2017 Cryptcert AB.",
+          "_styles": {
+            "P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          }
         }
       ]
     },
@@ -391,7 +397,7 @@
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -493,7 +499,7 @@
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extTabs1.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -573,7 +579,7 @@
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/flight-mountains-sky-flying.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -615,7 +621,13 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Cryptcert AB."
+          "text": "Copyright © 2017 Cryptcert AB.",
+          "_styles": {
+            "P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          }
         }
       ]
     },
@@ -703,7 +715,7 @@
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -743,7 +755,7 @@
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
-            "bgColor": "#cccccc",
+            "bgColor": "#c1c1c1",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -830,7 +842,13 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Cryptcert AB."
+          "text": "Copyright © 2017 Cryptcert AB.",
+          "_styles": {
+            "P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          }
         }
       ]
     },
@@ -918,7 +936,7 @@
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -1364,7 +1382,7 @@
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extTabs1.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1481,7 +1499,13 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Cryptcert AB."
+          "text": "Copyright © 2017 Cryptcert AB.",
+          "_styles": {
+            "P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          }
         }
       ]
     },
@@ -1569,7 +1593,7 @@
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -1603,8 +1627,8 @@
           },
           "_anchor": "features6-16",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": 2,
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1733,7 +1757,13 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Cryptcert AB."
+          "text": "Copyright © 2017 Cryptcert AB.",
+          "_styles": {
+            "P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          }
         }
       ]
     }
