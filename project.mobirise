@@ -997,7 +997,7 @@
             "showVideo": true,
             "showButtons": false,
             "showArrow": true,
-            "VideoUrl": "https://www.youtube.com/watch?v=bFh-lroWmI8&feature=youtu.be"
+            "VideoUrl": "https://youtu.be/bFh-lroWmI8"
           },
           "title": "<span style=\"font-style: italic; font-weight: normal;\">SPIDE</span><span style=\"font-weight: normal;\"><i>R</i></span>",
           "text": "Security &amp; Privacy-preserving Integrated Environment for Realms (Spider) by CryptCert secures all your emails and files from a single place wherever they are actually stored. It lets you communicate and share files with your counterpart in a truly secure way across all service providers.",
