@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Cryptcert",
-    "currentPage": "spider.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 70,
+    "uniqCompNum": 72,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -136,7 +136,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Cryptcert</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"spider.html\">Spider</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Help</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://demo.cryptcert.com/faces/login.xhtml\" target=\"_blank\">Demo</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"spider.html\">Product</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"contact.html\" target=\"_blank\">Request Demo</a></li>"
         },
         {
           "_tags": [
@@ -146,11 +146,11 @@
           "_styles": {
             ".mbr-section-title": {
               "text-align": "left",
-              "color": "#2969b0"
+              "color": "#3d8eb9"
             },
             ".mbr-section-lead": {
               "text-align": "right",
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
           "_anchor": "header1-2",
@@ -167,7 +167,7 @@
             "bgVideoRadio": true,
             "overlay": true,
             "overlayOpacity": 0.5,
-            "overlayColor": "#ffffff",
+            "overlayColor": "#000000",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
@@ -410,7 +410,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Cryptcert</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"spider.html\">Spider</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Help</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://demo.cryptcert.com/faces/login.xhtml\" target=\"_blank\">Demo</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"spider.html\">Product</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"contact.html\" target=\"_blank\">Request Demo</a></li>"
         },
         {
           "_tags": [
@@ -419,19 +419,20 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#3d8eb9"
+              "color": "#3d8eb9",
+              "font-size": "48px"
             },
             ".mbr-section-text": {
-              "color": "#000000",
+              "color": "#ffffff",
               "font-size": "20px"
             }
           },
           "_anchor": "header2-1u",
           "_params": {
-            "imageSize": "35",
+            "imageSize": "40",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1334.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -439,8 +440,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.8",
-            "overlayColor": "#c1c1c1",
+            "overlayOpacity": "0.6",
+            "overlayColor": "#000000",
             "inverse": false,
             "showTitle": true,
             "showText": true,
@@ -584,12 +585,17 @@
             "showTitle": true,
             "showSubtitle": false,
             "showBullets": false,
-            "visibleSlides": "3",
+            "visibleSlides": "2",
             "showArrows": false
           },
           "_anchor": "extTestimonials5-1x",
           "title": "COLLABORATIVE NETWORK",
-          "subtitle": "\"Our clients\" carousel with adjustable number of visible clients."
+          "subtitle": "\"Our clients\" carousel with adjustable number of visible clients.",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          }
         },
         {
           "_tags": [
@@ -716,7 +722,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Cryptcert</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"spider.html\">Spider</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Help</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://demo.cryptcert.com/faces/login.xhtml\" target=\"_blank\">Demo</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"spider.html\">Product</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"contact.html\" target=\"_blank\">Request Demo</a></li>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -736,16 +742,16 @@
             "paddingBottom": 1,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extForm1_bg.jpg",
-            "bgColor": "#efefef",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
+            "bgColor": "#cccccc",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.1,
-            "overlayColor": "#000",
+            "overlayOpacity": "0",
+            "overlayColor": "#c1c1c1",
             "inverse": false,
             "googleMap": {
               "address": "Lindstedtsvägen 24, Floor 4\n100 44, Stockholm",
@@ -759,7 +765,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"nav-link btn btn-warning\">Demo</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"nav-link btn btn-warning\">Request Demo</a>"
           },
           "title": "DROP US A LINE",
           "media1": {
@@ -931,7 +937,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Cryptcert</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"spider.html\">Spider</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Help</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://demo.cryptcert.com/faces/login.xhtml\" target=\"_blank\">Demo</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"spider.html\">Product</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"contact.html\" target=\"_blank\">Request Demo</a></li>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -947,14 +953,18 @@
               "color": "#3d8eb9"
             },
             "P": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "color": "#ffffff"
+            },
+            "LABEL": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "extHeader5-10",
           "_params": {
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader5-bg.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -962,8 +972,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.8",
-            "overlayColor": "#fff",
+            "overlayOpacity": "0.6",
+            "overlayColor": "#000000",
             "showTitle": true,
             "showText": true,
             "showVideo": true,
@@ -1341,6 +1351,45 @@
           "meta": "By John Smith posted July 20, 2016"
         },
         {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTabs1",
+          "_anchor": "extTabs1-1z",
+          "_params": {
+            "tabs": "3",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extTabs1.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#151515",
+            "showTitles": true
+          },
+          "tabTitle": "<li class=\"nav-item\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1\">Responsive</a></li><li class=\"nav-item\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" data-toggle=\"tab\" href=\"#tab2\">Creative</a></li><li class=\"nav-item\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3\">Animated</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4\">Awesome</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6\">Beautiful</a></li>",
+          "title1": "BOOST YOUR RANKING",
+          "text1": "Sites made with Mobirise are 100% mobile-friendly according the latest Google Test and Google loves those websites (officially)!",
+          "title2": "BOOTSTRAP BUILDER",
+          "text2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
+          "title3": "TRENDY WEBSITE BLOCKS",
+          "text3": "Choose from the large selection of latest pre-made blocks - full-screen intro, bootstrap carousel, content slider, responsive image gallery with lightbox, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title4": "Tab heading 4",
+          "text4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "title5": "Tab heading 5",
+          "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "title6": "Tab heading 6",
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio."
+        },
+        {
           "title": "INTRO WITH FORM",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND</a>",
@@ -1351,7 +1400,7 @@
           "_name": "extTabs2",
           "_styles": {
             "P": {
-              "text-align": "left"
+              "text-align": "center"
             },
             "H3": {
               "text-align": "center"
@@ -1359,7 +1408,7 @@
           },
           "_anchor": "extTabs2-1p",
           "_params": {
-            "tabs": "5",
+            "tabs": "6",
             "imageSize": "48",
             "paddingTop": "1",
             "paddingBottom": 3,
@@ -1400,19 +1449,19 @@
               "size": 250
             }
           },
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs2-1p\" aria-expanded=\"false\">Security</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs2-1p\" aria-expanded=\"false\">Compliance</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs2-1p\" aria-expanded=\"false\">Assurance</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs2-1p\" aria-expanded=\"true\">Satisfaction</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs2-1p\" aria-expanded=\"false\">Prevention</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs2-1p\">Beautiful</a></li>",
-          "title1": "FULLY SECURE YOUR EMAIL &amp; DATA",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs2-1p\" aria-expanded=\"false\">Security</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs2-1p\" aria-expanded=\"false\">Compliance</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs2-1p\" aria-expanded=\"false\">Privacy</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs2-1p\" aria-expanded=\"true\">Satisfaction</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs2-1p\" aria-expanded=\"false\">Prevention</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs2-1p\" aria-expanded=\"false\">Assurance</a></li>",
+          "title1": "Shield Up!",
           "text1": "Encrypt and manage access to all of your data, wherever it lives in the cloud, inside and outside of your organization.",
-          "title2": "COMPLY STRAIGHT AWAY",
+          "title2": "Comply Straight Away",
           "text2": "By using CryptCert you become instantly compliant with a number of new privacy regulations and standards.",
-          "title3": "KEEP YOUR PROMISES",
-          "text3": "Guarantee your customers true confidentiality of their data, even if it’s stolen or you’re forced legally to provide it to another party.",
+          "title3": "Secure Yourself!",
+          "text3": "We have lost privacy... even the idea of privacy!<br>Protecting your rights and freedoms should be no longer difficult. It's so easy with SPIDER.<br>",
           "title4": "<p>YOU WILL LOVE IT</p>",
           "text4": "Let your customers use whatever cloud storage and email service they want to share files and communicate with you.",
           "title5": "PREVENT LEAKS",
           "text5": "Employees can store company information securely even in their private cloud storage services. Empower employees to secure the company data rather than rely on people following your guidelines 100% of the time.",
-          "title6": "Tab heading 6",
-          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio."
+          "title6": "Keep Your Promise",
+          "text6": "Guarantee your customers true confidentiality of their data, even if it’s stolen or you’re forced legally to provide it to another party."
         },
         {
           "_tags": [
@@ -1436,7 +1485,7 @@
         }
       ]
     },
-    "xxxservices.html": {
+    "services.html": {
       "settings": {
         "title": "Cryptcert - Services",
         "meta_descr": "Cryptcert - Services",
@@ -1539,7 +1588,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Cryptcert</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"spider.html\">Spider</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Help</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://demo.cryptcert.com/faces/login.xhtml\" target=\"_blank\">Demo</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"spider.html\">Product</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"contact.html\" target=\"_blank\">Request Demo</a></li>"
         },
         {
           "_inherit": "features3",

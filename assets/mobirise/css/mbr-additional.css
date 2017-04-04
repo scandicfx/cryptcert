@@ -734,11 +734,11 @@ h6,
 }
 #header1-2 .mbr-section-title {
   text-align: left;
-  color: #2969b0;
+  color: #3d8eb9;
 }
 #header1-2 .mbr-section-lead {
   text-align: right;
-  color: #000000;
+  color: #ffffff;
 }
 #extHeader3-1g H3 {
   color: #3d8eb9;
@@ -826,13 +826,17 @@ h6,
 }
 #header2-1u .mbr-section-title {
   color: #3d8eb9;
+  font-size: 48px;
 }
 #header2-1u .mbr-section-text {
-  color: #000000;
+  color: #ffffff;
   font-size: 20px;
 }
 #extTabs1-18 P {
   text-align: center;
+}
+#extTestimonials5-1x .mbr-section-title {
+  font-size: 36px;
 }
 
 #ext_menu-19 .hide-buttons .nav-btn {
@@ -981,6 +985,10 @@ h6,
 }
 #extHeader5-10 P {
   font-size: 20px;
+  color: #ffffff;
+}
+#extHeader5-10 LABEL {
+  color: #ffffff;
 }
 #header3-1j .mbr-section-title,
 #header3-1j .mbr-section-subtitle {
@@ -1030,7 +1038,7 @@ h6,
   font-family: 'Ubuntu', sans-serif;
 }
 #extTabs2-1p P {
-  text-align: left;
+  text-align: center;
 }
 #extTabs2-1p H3 {
   text-align: center;
