@@ -1005,7 +1005,7 @@
             "image": {
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/play-button.svg",
-              "link": "https://youtu.be/bFh-lroWmI8",
+              "link": "https://www.youtube.com/watch?v=bFh-lroWmI8&feature=youtu.be",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
