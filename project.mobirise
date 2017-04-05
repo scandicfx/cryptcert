@@ -1630,8 +1630,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "laptop",
-              "family": "MobiriseIcons",
+              "name": "yes",
+              "family": "iconsMind",
               "active": true,
               "link": "",
               "size": 0,
