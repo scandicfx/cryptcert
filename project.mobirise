@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Cryptcert",
-    "currentPage": "spider.html",
+    "currentPage": "services.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1616,9 +1616,10 @@
               "name": "timed-rating",
               "family": "icon54-v2",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "#2c82c9"
+              "color": "#faaf40",
+              "newWindow": false
             }
           },
           "title1": "Security Audit",
@@ -1629,12 +1630,13 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "action-done-all",
-              "family": "Material-Design-Icons",
+              "name": "laptop",
+              "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "#2c82c9"
+              "color": "#faaf40",
+              "newWindow": false
             }
           },
           "title2": "GDPR Compliance",
@@ -1648,9 +1650,10 @@
               "name": "dodekaeder-3",
               "family": "icon54-v2",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "#2c82c9"
+              "color": "#faaf40",
+              "newWindow": false
             }
           },
           "title3": "Security Consultancy",
