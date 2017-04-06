@@ -744,6 +744,7 @@ h6,
 }
 #extHeader3-1g H3 {
   color: #3d8eb9;
+  font-size: 72px;
 }
 #extHeader3-1g P {
   color: #000000;
@@ -759,6 +760,9 @@ h6,
 #extHeader3-1g .features-list i {
   color: #2969b0 !important;
   border-color: #2969b0;
+}
+#extHeader3-1g SPAN {
+  font-size: 72px;
 }
 #footer1-1n P {
   font-family: 'Roboto', sans-serif;

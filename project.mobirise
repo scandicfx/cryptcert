@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Cryptcert",
-    "currentPage": "services.html",
+    "currentPage": "spider.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -185,7 +185,8 @@
           "_name": "extHeader3",
           "_styles": {
             "H3": {
-              "color": "#3d8eb9"
+              "color": "#3d8eb9",
+              "font-size": "72px"
             },
             "P": {
               "color": "#000000",
@@ -201,6 +202,9 @@
             ".features-list i": {
               "color": "#2969b0 !important",
               "border-color": "#2969b0"
+            },
+            "SPAN": {
+              "font-size": "72px"
             }
           },
           "_anchor": "extHeader3-1g",
@@ -225,7 +229,7 @@
             "showTitles": true,
             "showArrow": false
           },
-          "title": "Cryptcert brings you... <span style=\"font-weight: normal;\"><i>SPIDER</i></span>",
+          "title": "Cryptcert brings you... <span style=\"font-weight: normal;\"><i>SPIDER™</i></span>",
           "text": "A platfrom lets you access all your emails &amp; files with ease. Spider lets you share files and communicate with your customers and colleagues in a truly secure way across your favourite cloud service providers like google, dropbox, etc.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"spider.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media1": {
@@ -999,7 +1003,7 @@
             "showArrow": true,
             "VideoUrl": "https://www.youtube.com/watch?v=bFh-lroWmI8"
           },
-          "title": "<span style=\"font-style: italic; font-weight: normal;\">SPIDE</span><span style=\"font-weight: normal;\"><i>R</i></span>",
+          "title": "<span style=\"font-style: italic; font-weight: normal;\">SPIDE</span><span style=\"font-weight: normal;\"><i>R™</i></span>",
           "text": "Security &amp; Privacy-preserving Integrated Environment for Realms (Spider) by CryptCert secures all your emails and files from a single place wherever they are actually stored. It lets you communicate and share files with your counterpart in a truly secure way across all service providers.",
           "media": {
             "image": {
@@ -1048,7 +1052,7 @@
             "bgColor": "#fff",
             "showMeta": false
           },
-          "title": "Elements of <span style=\"font-weight: normal;\"><i>SPIDER</i></span><br>",
+          "title": "Elements of <span style=\"font-weight: normal;\"><i>SPIDER™</i></span><br>",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -1365,7 +1369,7 @@
             "bgColor": "#fff",
             "showMeta": false
           },
-          "title": "Virtue of <span style=\"font-weight: normal;\"><i>SPIDER</i></span>",
+          "title": "Virtue of <span style=\"font-weight: normal;\"><i>SPIDER™</i></span>",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -1428,18 +1432,18 @@
               "size": 250
             }
           },
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs2-1p\" aria-expanded=\"false\">Security</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs2-1p\" aria-expanded=\"false\">Compliance</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs2-1p\" aria-expanded=\"false\">Privacy</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs2-1p\" aria-expanded=\"true\">Satisfaction</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs2-1p\" aria-expanded=\"false\">Prevention</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs2-1p\" aria-expanded=\"false\">Assurance</a></li>",
-          "title1": "Shield Up!",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs2-1p\" aria-expanded=\"false\">Security</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs2-1p\" aria-expanded=\"false\">Compliance</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs2-1p\" aria-expanded=\"false\">Privacy</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs2-1p\" aria-expanded=\"false\">Satisfaction</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs2-1p\" aria-expanded=\"false\">Prevention</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs2-1p\" aria-expanded=\"true\">Assurance</a></li>",
+          "title1": "Shield Up",
           "text1": "Encrypt and manage access to all of your data, wherever it lives in the cloud, inside and outside of your organization.",
           "title2": "Comply Straight Away",
           "text2": "By using CryptCert you become instantly compliant with a number of new privacy regulations and standards.",
-          "title3": "Secure Yourself!",
+          "title3": "Secure Yourself",
           "text3": "We have lost privacy... even the idea of privacy!<br>Protecting your rights and freedoms should be no longer difficult. It's so easy with SPIDER.<br>",
-          "title4": "<p>YOU WILL LOVE IT</p>",
+          "title4": "<p>You Will Love It</p>",
           "text4": "Let your customers use whatever cloud storage and email service they want to share files and communicate with you.",
-          "title5": "PREVENT LEAKS",
+          "title5": "Prevent Leaks",
           "text5": "Employees can store company information securely even in their private cloud storage services. Empower employees to secure the company data rather than rely on people following your guidelines 100% of the time.",
-          "title6": "Keep Your Promise",
+          "title6": "Keep Your Promises",
           "text6": "Guarantee your customers true confidentiality of their data, even if it’s stolen or you’re forced legally to provide it to another party."
         },
         {
