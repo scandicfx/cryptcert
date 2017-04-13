@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Cryptcert",
-    "currentPage": "services.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -294,6 +294,12 @@
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
           "_anchor": "footer1-1n",
           "_params": {
             "paddingTop": 2,
@@ -307,13 +313,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright © 2017 Cryptcert AB.",
-          "_styles": {
-            "P": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            }
-          }
+          "text": "Copyright © 2017 Cryptcert AB."
         }
       ]
     },
@@ -534,6 +534,11 @@
             "Extension"
           ],
           "_name": "extTestimonials5",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
           "_params": {
             "autoplay": false,
             "timeout": 5,
@@ -600,18 +605,19 @@
           },
           "_anchor": "extTestimonials5-1x",
           "title": "COLLABORATIVE NETWORK",
-          "subtitle": "\"Our clients\" carousel with adjustable number of visible clients.",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "36px"
-            }
-          }
+          "subtitle": "\"Our clients\" carousel with adjustable number of visible clients."
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
           "_anchor": "footer1-1n",
           "_params": {
             "paddingTop": 2,
@@ -625,13 +631,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright © 2017 Cryptcert AB.",
-          "_styles": {
-            "P": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            }
-          }
+          "text": "Copyright © 2017 Cryptcert AB."
         }
       ]
     },
@@ -795,7 +795,7 @@
               "color": "#27aae0"
             }
           },
-          "title1": "Don't hesitate to contact us",
+          "title1": "Do not hesitate to contact us for demo and more information",
           "subTitle1": "Ready for offers &amp; cooperation",
           "text1": "Email: info@cryptcert.com<br>Phone: +46 8790 97 07<br>",
           "form": {
@@ -833,6 +833,12 @@
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
           "_anchor": "footer1-1n",
           "_params": {
             "paddingTop": 2,
@@ -846,13 +852,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright © 2017 Cryptcert AB.",
-          "_styles": {
-            "P": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            }
-          }
+          "text": "Copyright © 2017 Cryptcert AB."
         }
       ]
     },
@@ -1451,6 +1451,12 @@
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
           "_anchor": "footer1-1n",
           "_params": {
             "paddingTop": 2,
@@ -1464,13 +1470,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright © 2017 Cryptcert AB.",
-          "_styles": {
-            "P": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            }
-          }
+          "text": "Copyright © 2017 Cryptcert AB."
         }
       ]
     },
@@ -1712,6 +1712,12 @@
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
           "_anchor": "footer1-1n",
           "_params": {
             "paddingTop": 2,
@@ -1725,13 +1731,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright © 2017 Cryptcert AB.",
-          "_styles": {
-            "P": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            }
-          }
+          "text": "Copyright © 2017 Cryptcert AB."
         }
       ]
     },
@@ -1846,6 +1846,17 @@
             "Extension"
           ],
           "_name": "extHeader4",
+          "_styles": {
+            "H2": {
+              "color": "#3d8eb9"
+            },
+            ".intro-box h4": {
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "extHeader4-24",
           "_params": {
             "formBorder": true,
@@ -1924,18 +1935,7 @@
             }
           },
           "title3": "Security<br><br>Privacy<br><br>Compliance",
-          "text2": "",
-          "_styles": {
-            "H2": {
-              "color": "#3d8eb9"
-            },
-            ".intro-box h4": {
-              "color": "#000000"
-            },
-            "P": {
-              "color": "#000000"
-            }
-          }
+          "text2": ""
         },
         {
           "_tags": [
