@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Cryptcert",
-    "currentPage": "contact.html",
+    "currentPage": "spider.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -17,13 +17,12 @@
         "textFont": "Oxygen",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true,
-        "isRtl": false
+        "isScrollToTopButton": true
       }
     },
     "versionFirst": "3.11.1",
     "uniqCompNum": 77,
-    "versionPublish": "3.12.1",
+    "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
